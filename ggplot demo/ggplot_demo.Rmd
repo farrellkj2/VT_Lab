@@ -1,0 +1,87 @@
+---
+title: "ggplot Demo"
+author: "KJF"
+date: "March 27, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Script to demo ggplot use of factors 
+Load packages and demo Sunapee data
+``` {r message=FALSE}
+library(tidyverse)
+library(lubridate)
+
+raw <- read_csv("LMP_L1daily_temp_merge.csv")
+
+names(raw)
+```
+
+Whoa, those column names are out of control!   
+We'll have to massage the data into a more user-friendly format: 
+```{r}
+startDate = ymd('2005-01-01')
+
+manualTemp <- raw %>% 
+  filter(date >= startDate) %>% # Retain dates on or after start date
+  select(-datasource) %>% # Drop datasource column
+  rename_at(vars(starts_with("Temp_")), funs(sub("Temp_", "", .))) %>% # 3 steps 
+  rename_at(vars(ends_with("_degC")), funs(sub("m_degC","",.))) %>% # to streamline
+  rename_at(vars(contains("p")), funs(sub("p", ".",.))) %>% # column names
+  gather(Depth, Temp, "0":"33") %>% # Reshape wide to long
+  mutate(Depth = as.double(Depth), Temp = round(as.double(Temp), 2)) %>% # Parse Depth and Temp
+  na.omit() # Remove rows with NA values
+  
+head(manualTemp)
+```
+Much better!  
+Note that while we specificed Depth and temp as being double, loc is currently parsed as a character.
+
+If you make a plot of temperature over time with depths as different colors, the depths default to a color gradient, since their structure is "double":
+```{r}
+ggplot(manualTemp, aes(x = date, y = Temp, col = Depth)) + 
+  geom_point() +
+  scale_y_continuous("Water Temperature (C)", limits= c(-5,30)) +
+  scale_x_date("Year", date_breaks= "1 year", date_labels= "%Y")
+```
+
+If, instead, you want discrete colors, you would set Depth as a factor. You can do this in the ggplot command directly.
+```{r}
+ggplot(manualTemp, aes(x = date, y = Temp, col = factor(Depth))) + 
+  geom_point() +
+  scale_y_continuous("Water Temperature (C)", limits= c(-5,30)) +
+  scale_x_date("Year", date_breaks= "1 year", date_labels= "%Y")
+```
+
+Note that for these plots, you're lumping all the locations together. Maybe you just want to look at 210 and the buoy at 1, 10, and 20 meters.
+```{r}
+manTemp <- manualTemp %>%
+  filter((loc == '210' | loc=='buoy') & (Depth %in% c(1, 10, 20)))
+```
+
+Now we'll plot with each location as a shape and each depth as a color:
+```{r}
+ggplot(manTemp, aes(x = date, y = Temp, pch = loc, col = Depth)) + 
+  geom_point() +
+  scale_y_continuous("Water Temperature (C)", limits= c(-5,30)) +
+  scale_x_date("Year", date_breaks= "1 year", date_labels= "%Y")
+```  
+  
+Here, it's disingenuous to have Depth as a color gradient, because we're only looking at 3 discrete depths. Thus we need to have it as a factor!  
+We could add factor() to the aes in the plotting command, as we did above, or recode Depth as a factor in the tibble itself: 
+```{r}
+manTemp <- manTemp %>%
+  mutate(Depth = factor(Depth))
+
+head(manTemp)
+
+ggplot(manTemp, aes(x = date, y = Temp, pch = loc, col = Depth)) + 
+  geom_point() +
+  scale_y_continuous("Water Temperature (C)", limits= c(-5, 30)) +
+  scale_x_date("Year", date_breaks= "1 year", date_labels= "%Y")
+```
+
+Notice how instead of using subset commands to select each location or depth, you add them in to the aes command, and they're automatically added to the legend. Whoo!
