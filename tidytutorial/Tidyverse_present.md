@@ -75,7 +75,7 @@ Reading data
 
 ```r
 library(tidyverse)
-myData <- read_csv("./tidytutorial/demo_data.csv")
+myData <- read_csv("demo_data.csv")
 ```
 
 ```
