@@ -1,0 +1,2151 @@
+City,DATE,PRCP,TAVG
+Los Angeles,2017-01-01,0,50
+Miami,2017-01-01,0,76
+Fairbanks,2017-01-01,0,12
+Minneapolis,2017-01-01,0,26
+Roanoke,2017-01-01,0.03,46
+Los Angeles,2017-01-02,0,53
+Miami,2017-01-02,0,80
+Fairbanks,2017-01-02,0,1
+Minneapolis,2017-01-02,0.02,29
+Roanoke,2017-01-02,0.09,47
+Los Angeles,2017-01-03,0,53
+Miami,2017-01-03,0.69,80
+Fairbanks,2017-01-03,0.06,1
+Minneapolis,2017-01-03,0,24
+Roanoke,2017-01-03,0.51,44
+Los Angeles,2017-01-04,0.04,55
+Miami,2017-01-04,0.16,76
+Fairbanks,2017-01-04,0.08,17
+Minneapolis,2017-01-04,0,0
+Roanoke,2017-01-04,0,51
+Los Angeles,2017-01-05,0.44,56
+Miami,2017-01-05,0,74
+Fairbanks,2017-01-05,0.16,18
+Minneapolis,2017-01-05,0,-1
+Roanoke,2017-01-05,0,34
+Los Angeles,2017-01-06,0,57
+Miami,2017-01-06,0,72
+Fairbanks,2017-01-06,0,-9
+Minneapolis,2017-01-06,0,-4
+Roanoke,2017-01-06,0.02,31
+Los Angeles,2017-01-07,0.03,58
+Miami,2017-01-07,0.59,78
+Fairbanks,2017-01-07,0,-22
+Minneapolis,2017-01-07,0,3
+Roanoke,2017-01-07,0.3,24
+Los Angeles,2017-01-08,0,63
+Miami,2017-01-08,0,59
+Fairbanks,2017-01-08,0,-20
+Minneapolis,2017-01-08,0,3
+Roanoke,2017-01-08,0,16
+Los Angeles,2017-01-09,0.87,60
+Miami,2017-01-09,0,61
+Fairbanks,2017-01-09,0,-17
+Minneapolis,2017-01-09,0.07,18
+Roanoke,2017-01-09,0,16
+Los Angeles,2017-01-10,0.09,56
+Miami,2017-01-10,0.01,70
+Fairbanks,2017-01-10,0,-18
+Minneapolis,2017-01-10,0.23,24
+Roanoke,2017-01-10,0,26
+Los Angeles,2017-01-11,0.18,59
+Miami,2017-01-11,0.03,72
+Fairbanks,2017-01-11,0.03,-17
+Minneapolis,2017-01-11,0.12,7
+Roanoke,2017-01-11,0.06,39
+Los Angeles,2017-01-12,0.71,56
+Miami,2017-01-12,0,75
+Fairbanks,2017-01-12,0.06,-3
+Minneapolis,2017-01-12,0,7
+Roanoke,2017-01-12,0,52
+Los Angeles,2017-01-13,0,54
+Miami,2017-01-13,0,76
+Fairbanks,2017-01-13,0,-1
+Minneapolis,2017-01-13,0,-2
+Roanoke,2017-01-13,0.01,60
+Los Angeles,2017-01-14,0,56
+Miami,2017-01-14,0.06,74
+Fairbanks,2017-01-14,0.13,8
+Minneapolis,2017-01-14,0,11
+Roanoke,2017-01-14,0.13,44
+Los Angeles,2017-01-15,0,59
+Miami,2017-01-15,0,76
+Fairbanks,2017-01-15,0,-20
+Minneapolis,2017-01-15,0,14
+Roanoke,2017-01-15,0.05,47
+Los Angeles,2017-01-16,0,57
+Miami,2017-01-16,0,77
+Fairbanks,2017-01-16,0.28,-17
+Minneapolis,2017-01-16,0.12,22
+Roanoke,2017-01-16,0.02,42
+Los Angeles,2017-01-17,0,55
+Miami,2017-01-17,0,76
+Fairbanks,2017-01-17,0.02,-19
+Minneapolis,2017-01-17,0.11,31
+Roanoke,2017-01-17,0.15,44
+Los Angeles,2017-01-18,0.06,55
+Miami,2017-01-18,0,75
+Fairbanks,2017-01-18,0,-44
+Minneapolis,2017-01-18,0,33
+Roanoke,2017-01-18,0,55
+Los Angeles,2017-01-19,0.58,56
+Miami,2017-01-19,0,74
+Fairbanks,2017-01-19,0,-43
+Minneapolis,2017-01-19,0,34
+Roanoke,2017-01-19,0,47
+Los Angeles,2017-01-20,1.35,55
+Miami,2017-01-20,0,74
+Fairbanks,2017-01-20,0.01,-24
+Minneapolis,2017-01-20,0.09,36
+Roanoke,2017-01-20,0.28,48
+Los Angeles,2017-01-21,0,54
+Miami,2017-01-21,0,74
+Fairbanks,2017-01-21,0.03,-10
+Minneapolis,2017-01-21,0.01,36
+Roanoke,2017-01-21,0.31,48
+Los Angeles,2017-01-22,2.94,53
+Miami,2017-01-22,0,79
+Fairbanks,2017-01-22,0,-24
+Minneapolis,2017-01-22,0,37
+Roanoke,2017-01-22,0.19,51
+Los Angeles,2017-01-23,0.15,54
+Miami,2017-01-23,1.2,77
+Fairbanks,2017-01-23,0,-32
+Minneapolis,2017-01-23,0,35
+Roanoke,2017-01-23,1.87,48
+Los Angeles,2017-01-24,0,49
+Miami,2017-01-24,0,71
+Fairbanks,2017-01-24,0,-16
+Minneapolis,2017-01-24,0,32
+Roanoke,2017-01-24,0,45
+Los Angeles,2017-01-25,0,50
+Miami,2017-01-25,0,70
+Fairbanks,2017-01-25,0,-8
+Minneapolis,2017-01-25,0.09,31
+Roanoke,2017-01-25,0,51
+Los Angeles,2017-01-26,0,51
+Miami,2017-01-26,0,74
+Fairbanks,2017-01-26,0,6
+Minneapolis,2017-01-26,0,29
+Roanoke,2017-01-26,0.01,53
+Los Angeles,2017-01-27,0,54
+Miami,2017-01-27,0,75
+Fairbanks,2017-01-27,0,11
+Minneapolis,2017-01-27,0,24
+Roanoke,2017-01-27,0,38
+Los Angeles,2017-01-28,0,54
+Miami,2017-01-28,0,68
+Fairbanks,2017-01-28,0.1,8
+Minneapolis,2017-01-28,0,26
+Roanoke,2017-01-28,0,37
+Los Angeles,2017-01-29,0,59
+Miami,2017-01-29,0.66,60
+Fairbanks,2017-01-29,0,10
+Minneapolis,2017-01-29,0,26
+Roanoke,2017-01-29,0.07,39
+Los Angeles,2017-01-30,0,63
+Miami,2017-01-30,0,61
+Fairbanks,2017-01-30,0,-12
+Minneapolis,2017-01-30,0.1,26
+Roanoke,2017-01-30,0,33
+Los Angeles,2017-01-31,0,60
+Miami,2017-01-31,0,64
+Fairbanks,2017-01-31,0,3
+Minneapolis,2017-01-31,0.02,36
+Roanoke,2017-01-31,0,38
+Los Angeles,2017-02-01,0,56
+Miami,2017-02-01,0,69
+Fairbanks,2017-02-01,0,-3
+Minneapolis,2017-02-01,0,23
+Roanoke,2017-02-01,0,51
+Los Angeles,2017-02-02,0,56
+Miami,2017-02-02,0,71
+Fairbanks,2017-02-02,0,-10
+Minneapolis,2017-02-02,0,13
+Roanoke,2017-02-02,0,47
+Los Angeles,2017-02-03,0.33,57
+Miami,2017-02-03,0,73
+Fairbanks,2017-02-03,0,-10
+Minneapolis,2017-02-03,0,13
+Roanoke,2017-02-03,0,37
+Los Angeles,2017-02-04,0,58
+Miami,2017-02-04,0,73
+Fairbanks,2017-02-04,0,-9
+Minneapolis,2017-02-04,0,23
+Roanoke,2017-02-04,0,29
+Los Angeles,2017-02-05,0,56
+Miami,2017-02-05,0,73
+Fairbanks,2017-02-05,0,-12
+Minneapolis,2017-02-05,0,27
+Roanoke,2017-02-05,0,39
+Los Angeles,2017-02-06,0.97,55
+Miami,2017-02-06,0,73
+Fairbanks,2017-02-06,0,-12
+Minneapolis,2017-02-06,0,24
+Roanoke,2017-02-06,0,50
+Los Angeles,2017-02-07,0.39,59
+Miami,2017-02-07,0,76
+Fairbanks,2017-02-07,0,-11
+Minneapolis,2017-02-07,0.01,27
+Roanoke,2017-02-07,0,59
+Los Angeles,2017-02-08,0.03,61
+Miami,2017-02-08,0,76
+Fairbanks,2017-02-08,0.08,-7
+Minneapolis,2017-02-08,0,10
+Roanoke,2017-02-08,0.08,61
+Los Angeles,2017-02-09,0,59
+Miami,2017-02-09,0,75
+Fairbanks,2017-02-09,0.02,-1
+Minneapolis,2017-02-09,0,10
+Roanoke,2017-02-09,0.1,44
+Los Angeles,2017-02-10,0.26,59
+Miami,2017-02-10,0,72
+Fairbanks,2017-02-10,0,-5
+Minneapolis,2017-02-10,0,27
+Roanoke,2017-02-10,0,29
+Los Angeles,2017-02-11,0.03,59
+Miami,2017-02-11,0,72
+Fairbanks,2017-02-11,0,-19
+Minneapolis,2017-02-11,0.02,41
+Roanoke,2017-02-11,0,49
+Los Angeles,2017-02-12,0,57
+Miami,2017-02-12,0,71
+Fairbanks,2017-02-12,0,-31
+Minneapolis,2017-02-12,0,37
+Roanoke,2017-02-12,0,64
+Los Angeles,2017-02-13,0,62
+Miami,2017-02-13,0,71
+Fairbanks,2017-02-13,0,-4
+Minneapolis,2017-02-13,0,36
+Roanoke,2017-02-13,0,47
+Los Angeles,2017-02-14,0,59
+Miami,2017-02-14,0,72
+Fairbanks,2017-02-14,0,8
+Minneapolis,2017-02-14,0,38
+Roanoke,2017-02-14,0,42
+Los Angeles,2017-02-15,0,58
+Miami,2017-02-15,0,73
+Fairbanks,2017-02-15,0,17
+Minneapolis,2017-02-15,0,28
+Roanoke,2017-02-15,0.04,47
+Los Angeles,2017-02-16,0,57
+Miami,2017-02-16,0,73
+Fairbanks,2017-02-16,0,10
+Minneapolis,2017-02-16,0,33
+Roanoke,2017-02-16,0,38
+Los Angeles,2017-02-17,1.58,58
+Miami,2017-02-17,0,66
+Fairbanks,2017-02-17,0,0
+Minneapolis,2017-02-17,0,41
+Roanoke,2017-02-17,0,46
+Los Angeles,2017-02-18,0.27,54
+Miami,2017-02-18,0,70
+Fairbanks,2017-02-18,0,1
+Minneapolis,2017-02-18,0,47
+Roanoke,2017-02-18,0,59
+Los Angeles,2017-02-19,0.03,55
+Miami,2017-02-19,0,75
+Fairbanks,2017-02-19,0,3
+Minneapolis,2017-02-19,0,45
+Roanoke,2017-02-19,0,58
+Los Angeles,2017-02-20,0.07,56
+Miami,2017-02-20,0,72
+Fairbanks,2017-02-20,0.01,-1
+Minneapolis,2017-02-20,0.61,51
+Roanoke,2017-02-20,0,54
+Los Angeles,2017-02-21,0.01,59
+Miami,2017-02-21,0,70
+Fairbanks,2017-02-21,0,-13
+Minneapolis,2017-02-21,0,46
+Roanoke,2017-02-21,0,53
+Los Angeles,2017-02-22,0,58
+Miami,2017-02-22,1.3,68
+Fairbanks,2017-02-22,0.08,-6
+Minneapolis,2017-02-22,0,48
+Roanoke,2017-02-22,0.18,51
+Los Angeles,2017-02-23,0,55
+Miami,2017-02-23,0,69
+Fairbanks,2017-02-23,0.19,10
+Minneapolis,2017-02-23,0,37
+Roanoke,2017-02-23,0,57
+Los Angeles,2017-02-24,0,53
+Miami,2017-02-24,0,71
+Fairbanks,2017-02-24,0.33,25
+Minneapolis,2017-02-24,0,27
+Roanoke,2017-02-24,0,61
+Los Angeles,2017-02-25,0,52
+Miami,2017-02-25,0,73
+Fairbanks,2017-02-25,0.43,32
+Minneapolis,2017-02-25,0,22
+Roanoke,2017-02-25,0.01,61
+Los Angeles,2017-02-26,0.07,52
+Miami,2017-02-26,0,74
+Fairbanks,2017-02-26,0.04,31
+Minneapolis,2017-02-26,0,29
+Roanoke,2017-02-26,0,41
+Los Angeles,2017-02-27,0,53
+Miami,2017-02-27,0.01,77
+Fairbanks,2017-02-27,0.06,25
+Minneapolis,2017-02-27,0,33
+Roanoke,2017-02-27,0,42
+Los Angeles,2017-02-28,0,55
+Miami,2017-02-28,0,78
+Fairbanks,2017-02-28,0,14
+Minneapolis,2017-02-28,0,40
+Roanoke,2017-02-28,0.13,51
+Los Angeles,2017-03-01,0,56
+Miami,2017-03-01,0,77
+Fairbanks,2017-03-01,0,-1
+Minneapolis,2017-03-01,0.04,32
+Roanoke,2017-03-01,0.18,57
+Los Angeles,2017-03-02,0,61
+Miami,2017-03-02,0.18,76
+Fairbanks,2017-03-02,0,-18
+Minneapolis,2017-03-02,0,24
+Roanoke,2017-03-02,0,50
+Los Angeles,2017-03-03,0,64
+Miami,2017-03-03,0,74
+Fairbanks,2017-03-03,0,-22
+Minneapolis,2017-03-03,0.01,21
+Roanoke,2017-03-03,0,40
+Los Angeles,2017-03-04,0,59
+Miami,2017-03-04,0,73
+Fairbanks,2017-03-04,0.02,-7
+Minneapolis,2017-03-04,0,30
+Roanoke,2017-03-04,0,36
+Los Angeles,2017-03-05,0.02,57
+Miami,2017-03-05,0,71
+Fairbanks,2017-03-05,0,2
+Minneapolis,2017-03-05,0,43
+Roanoke,2017-03-05,0,36
+Los Angeles,2017-03-06,0,54
+Miami,2017-03-06,0,71
+Fairbanks,2017-03-06,0,-21
+Minneapolis,2017-03-06,0.09,53
+Roanoke,2017-03-06,0,43
+Los Angeles,2017-03-07,0,57
+Miami,2017-03-07,0,72
+Fairbanks,2017-03-07,0,-22
+Minneapolis,2017-03-07,0,42
+Roanoke,2017-03-07,0.16,57
+Los Angeles,2017-03-08,0,62
+Miami,2017-03-08,0,74
+Fairbanks,2017-03-08,0,-24
+Minneapolis,2017-03-08,0,33
+Roanoke,2017-03-08,0,57
+Los Angeles,2017-03-09,0,63
+Miami,2017-03-09,0,74
+Fairbanks,2017-03-09,0,-22
+Minneapolis,2017-03-09,0,27
+Roanoke,2017-03-09,0,58
+Los Angeles,2017-03-10,0,64
+Miami,2017-03-10,0,74
+Fairbanks,2017-03-10,0.05,4
+Minneapolis,2017-03-10,0,15
+Roanoke,2017-03-10,0,54
+Los Angeles,2017-03-11,0,62
+Miami,2017-03-11,0,74
+Fairbanks,2017-03-11,0,3
+Minneapolis,2017-03-11,0,13
+Roanoke,2017-03-11,0,37
+Los Angeles,2017-03-12,0,58
+Miami,2017-03-12,1.33,75
+Fairbanks,2017-03-12,0,-1
+Minneapolis,2017-03-12,0.24,17
+Roanoke,2017-03-12,0,37
+Los Angeles,2017-03-13,0,58
+Miami,2017-03-13,0,74
+Fairbanks,2017-03-13,0,-8
+Minneapolis,2017-03-13,0.01,20
+Roanoke,2017-03-13,0.15,35
+Los Angeles,2017-03-14,0,58
+Miami,2017-03-14,0.4,73
+Fairbanks,2017-03-14,0,-3
+Minneapolis,2017-03-14,0,19
+Roanoke,2017-03-14,0.13,35
+Los Angeles,2017-03-15,0,60
+Miami,2017-03-15,0,64
+Fairbanks,2017-03-15,0,-1
+Minneapolis,2017-03-15,0,21
+Roanoke,2017-03-15,0,24
+Los Angeles,2017-03-16,0,61
+Miami,2017-03-16,0,61
+Fairbanks,2017-03-16,0,-3
+Minneapolis,2017-03-16,0,28
+Roanoke,2017-03-16,0,31
+Los Angeles,2017-03-17,0,59
+Miami,2017-03-17,0,65
+Fairbanks,2017-03-17,0,-12
+Minneapolis,2017-03-17,0,37
+Roanoke,2017-03-17,0.25,38
+Los Angeles,2017-03-18,0,58
+Miami,2017-03-18,0,70
+Fairbanks,2017-03-18,0,-10
+Minneapolis,2017-03-18,0,35
+Roanoke,2017-03-18,0.1,48
+Los Angeles,2017-03-19,0,59
+Miami,2017-03-19,0,70
+Fairbanks,2017-03-19,0,-6
+Minneapolis,2017-03-19,0,38
+Roanoke,2017-03-19,0,45
+Los Angeles,2017-03-20,0,60
+Miami,2017-03-20,0,70
+Fairbanks,2017-03-20,0,-2
+Minneapolis,2017-03-20,0,46
+Roanoke,2017-03-20,0,46
+Los Angeles,2017-03-21,0.05,60
+Miami,2017-03-21,0,71
+Fairbanks,2017-03-21,0,-2
+Minneapolis,2017-03-21,0,37
+Roanoke,2017-03-21,0,58
+Los Angeles,2017-03-22,0.01,59
+Miami,2017-03-22,0,72
+Fairbanks,2017-03-22,0,-3
+Minneapolis,2017-03-22,0,29
+Roanoke,2017-03-22,0,52
+Los Angeles,2017-03-23,0,60
+Miami,2017-03-23,1.17,74
+Fairbanks,2017-03-23,0,1
+Minneapolis,2017-03-23,0.17,38
+Roanoke,2017-03-23,0,41
+Los Angeles,2017-03-24,0,58
+Miami,2017-03-24,0.59,73
+Fairbanks,2017-03-24,0,-2
+Minneapolis,2017-03-24,0.01,40
+Roanoke,2017-03-24,0,49
+Los Angeles,2017-03-25,0,60
+Miami,2017-03-25,0.07,74
+Fairbanks,2017-03-25,0,2
+Minneapolis,2017-03-25,0.05,40
+Roanoke,2017-03-25,0,65
+Los Angeles,2017-03-26,0,59
+Miami,2017-03-26,0.18,74
+Fairbanks,2017-03-26,0,6
+Minneapolis,2017-03-26,0.04,39
+Roanoke,2017-03-26,0.07,61
+Los Angeles,2017-03-27,0,60
+Miami,2017-03-27,0,75
+Fairbanks,2017-03-27,0,13
+Minneapolis,2017-03-27,0,44
+Roanoke,2017-03-27,0,63
+Los Angeles,2017-03-28,0,65
+Miami,2017-03-28,0,74
+Fairbanks,2017-03-28,0,21
+Minneapolis,2017-03-28,0,49
+Roanoke,2017-03-28,0.31,65
+Los Angeles,2017-03-29,0,64
+Miami,2017-03-29,0,77
+Fairbanks,2017-03-29,0,11
+Minneapolis,2017-03-29,0,49
+Roanoke,2017-03-29,0,64
+Los Angeles,2017-03-30,0,63
+Miami,2017-03-30,0,77
+Fairbanks,2017-03-30,0.1,17
+Minneapolis,2017-03-30,0.02,42
+Roanoke,2017-03-30,0,56
+Los Angeles,2017-03-31,0,63
+Miami,2017-03-31,0,79
+Fairbanks,2017-03-31,0,26
+Minneapolis,2017-03-31,0,44
+Roanoke,2017-03-31,0.97,55
+Los Angeles,2017-04-01,0,60
+Miami,2017-04-01,0,80
+Fairbanks,2017-04-01,0,34
+Minneapolis,2017-04-01,0,51
+Roanoke,2017-04-01,0,58
+Los Angeles,2017-04-02,0,61
+Miami,2017-04-02,0,80
+Fairbanks,2017-04-02,0,37
+Minneapolis,2017-04-02,0,51
+Roanoke,2017-04-02,0,53
+Los Angeles,2017-04-03,0,58
+Miami,2017-04-03,0,80
+Fairbanks,2017-04-03,0,35
+Minneapolis,2017-04-03,0.12,49
+Roanoke,2017-04-03,0.7,53
+Los Angeles,2017-04-04,0,60
+Miami,2017-04-04,0,80
+Fairbanks,2017-04-04,0,37
+Minneapolis,2017-04-04,0,52
+Roanoke,2017-04-04,0.01,63
+Los Angeles,2017-04-05,0,62
+Miami,2017-04-05,0,80
+Fairbanks,2017-04-05,0,37
+Minneapolis,2017-04-05,0,48
+Roanoke,2017-04-05,0,65
+Los Angeles,2017-04-06,0,61
+Miami,2017-04-06,0,82
+Fairbanks,2017-04-06,0.04,36
+Minneapolis,2017-04-06,0,46
+Roanoke,2017-04-06,0.33,59
+Los Angeles,2017-04-07,0.05,60
+Miami,2017-04-07,0,71
+Fairbanks,2017-04-07,0.05,31
+Minneapolis,2017-04-07,0,46
+Roanoke,2017-04-07,0,44
+Los Angeles,2017-04-08,0.33,60
+Miami,2017-04-08,0,68
+Fairbanks,2017-04-08,0,27
+Minneapolis,2017-04-08,0,55
+Roanoke,2017-04-08,0,51
+Los Angeles,2017-04-09,0,59
+Miami,2017-04-09,0,73
+Fairbanks,2017-04-09,0,30
+Minneapolis,2017-04-09,0.02,65
+Roanoke,2017-04-09,0,55
+Los Angeles,2017-04-10,0,61
+Miami,2017-04-10,0,74
+Fairbanks,2017-04-10,0,35
+Minneapolis,2017-04-10,0.18,49
+Roanoke,2017-04-10,0,62
+Los Angeles,2017-04-11,0,61
+Miami,2017-04-11,0,75
+Fairbanks,2017-04-11,0,35
+Minneapolis,2017-04-11,0,38
+Roanoke,2017-04-11,0,70
+Los Angeles,2017-04-12,0,60
+Miami,2017-04-12,0.06,76
+Fairbanks,2017-04-12,0,35
+Minneapolis,2017-04-12,0.16,48
+Roanoke,2017-04-12,0,71
+Los Angeles,2017-04-13,0,61
+Miami,2017-04-13,0,76
+Fairbanks,2017-04-13,0,38
+Minneapolis,2017-04-13,0,49
+Roanoke,2017-04-13,0,65
+Los Angeles,2017-04-14,0,59
+Miami,2017-04-14,0,76
+Fairbanks,2017-04-14,0,37
+Minneapolis,2017-04-14,0.3,54
+Roanoke,2017-04-14,0,66
+Los Angeles,2017-04-15,0,60
+Miami,2017-04-15,0,77
+Fairbanks,2017-04-15,0,37
+Minneapolis,2017-04-15,1,62
+Roanoke,2017-04-15,0.76,68
+Los Angeles,2017-04-16,0,62
+Miami,2017-04-16,0,77
+Fairbanks,2017-04-16,0,31
+Minneapolis,2017-04-16,0,56
+Roanoke,2017-04-16,0,72
+Los Angeles,2017-04-17,0,61
+Miami,2017-04-17,0,77
+Fairbanks,2017-04-17,0,28
+Minneapolis,2017-04-17,0,53
+Roanoke,2017-04-17,0.08,66
+Los Angeles,2017-04-18,0,61
+Miami,2017-04-18,0,78
+Fairbanks,2017-04-18,0,29
+Minneapolis,2017-04-18,0.15,55
+Roanoke,2017-04-18,0.05,63
+Los Angeles,2017-04-19,0,62
+Miami,2017-04-19,0,78
+Fairbanks,2017-04-19,0,31
+Minneapolis,2017-04-19,0.8,48
+Roanoke,2017-04-19,0.17,54
+Los Angeles,2017-04-20,0,63
+Miami,2017-04-20,0.02,77
+Fairbanks,2017-04-20,0,29
+Minneapolis,2017-04-20,0.15,45
+Roanoke,2017-04-20,0.05,63
+Los Angeles,2017-04-21,0,67
+Miami,2017-04-21,0,76
+Fairbanks,2017-04-21,0,33
+Minneapolis,2017-04-21,0,49
+Roanoke,2017-04-21,0,71
+Los Angeles,2017-04-22,0,69
+Miami,2017-04-22,0,78
+Fairbanks,2017-04-22,0,38
+Minneapolis,2017-04-22,0,56
+Roanoke,2017-04-22,0.48,65
+Los Angeles,2017-04-23,0,65
+Miami,2017-04-23,2.08,76
+Fairbanks,2017-04-23,0,42
+Minneapolis,2017-04-23,0,59
+Roanoke,2017-04-23,0.92,50
+Los Angeles,2017-04-24,0,63
+Miami,2017-04-24,0,77
+Fairbanks,2017-04-24,0,44
+Minneapolis,2017-04-24,0.02,60
+Roanoke,2017-04-24,1.75,50
+Los Angeles,2017-04-25,0,64
+Miami,2017-04-25,0,76
+Fairbanks,2017-04-25,0,47
+Minneapolis,2017-04-25,0.45,59
+Roanoke,2017-04-25,0.53,54
+Los Angeles,2017-04-26,0,65
+Miami,2017-04-26,0,76
+Fairbanks,2017-04-26,0,40
+Minneapolis,2017-04-26,0.38,43
+Roanoke,2017-04-26,0,64
+Los Angeles,2017-04-27,0,62
+Miami,2017-04-27,0,82
+Fairbanks,2017-04-27,0,41
+Minneapolis,2017-04-27,0.01,35
+Roanoke,2017-04-27,0.09,68
+Los Angeles,2017-04-28,0,72
+Miami,2017-04-28,0,83
+Fairbanks,2017-04-28,0,40
+Minneapolis,2017-04-28,0,40
+Roanoke,2017-04-28,0,66
+Los Angeles,2017-04-29,0,72
+Miami,2017-04-29,0,82
+Fairbanks,2017-04-29,0,44
+Minneapolis,2017-04-29,0,46
+Roanoke,2017-04-29,0,77
+Los Angeles,2017-04-30,0,66
+Miami,2017-04-30,0,82
+Fairbanks,2017-04-30,0,44
+Minneapolis,2017-04-30,0.71,47
+Roanoke,2017-04-30,0,77
+Los Angeles,2017-05-01,0,65
+Miami,2017-05-01,0,82
+Fairbanks,2017-05-01,0,42
+Minneapolis,2017-05-01,0.26,40
+Roanoke,2017-05-01,0.12,72
+Los Angeles,2017-05-02,0,66
+Miami,2017-05-02,0.14,82
+Fairbanks,2017-05-02,0,45
+Minneapolis,2017-05-02,0.03,46
+Roanoke,2017-05-02,0,67
+Los Angeles,2017-05-03,0,66
+Miami,2017-05-03,0,79
+Fairbanks,2017-05-03,0,49
+Minneapolis,2017-05-03,0,56
+Roanoke,2017-05-03,0,64
+Los Angeles,2017-05-04,0,64
+Miami,2017-05-04,0,82
+Fairbanks,2017-05-04,0.01,45
+Minneapolis,2017-05-04,0,58
+Roanoke,2017-05-04,0.64,58
+Los Angeles,2017-05-05,0,60
+Miami,2017-05-05,0.47,80
+Fairbanks,2017-05-05,0,47
+Minneapolis,2017-05-05,0,61
+Roanoke,2017-05-05,1.61,64
+Los Angeles,2017-05-06,0,61
+Miami,2017-05-06,0,74
+Fairbanks,2017-05-06,0,48
+Minneapolis,2017-05-06,0,60
+Roanoke,2017-05-06,0.01,55
+Los Angeles,2017-05-07,0.13,56
+Miami,2017-05-07,0,74
+Fairbanks,2017-05-07,0,52
+Minneapolis,2017-05-07,0,57
+Roanoke,2017-05-07,0,53
+Los Angeles,2017-05-08,0,57
+Miami,2017-05-08,0,77
+Fairbanks,2017-05-08,0,56
+Minneapolis,2017-05-08,0.25,58
+Roanoke,2017-05-08,0,55
+Los Angeles,2017-05-09,0,61
+Miami,2017-05-09,0,79
+Fairbanks,2017-05-09,0.12,50
+Minneapolis,2017-05-09,0.03,60
+Roanoke,2017-05-09,0.36,51
+Los Angeles,2017-05-10,0,63
+Miami,2017-05-10,0,80
+Fairbanks,2017-05-10,0,49
+Minneapolis,2017-05-10,0,61
+Roanoke,2017-05-10,0.05,63
+Los Angeles,2017-05-11,0,62
+Miami,2017-05-11,0,80
+Fairbanks,2017-05-11,0,51
+Minneapolis,2017-05-11,0,59
+Roanoke,2017-05-11,0.15,70
+Los Angeles,2017-05-12,0,62
+Miami,2017-05-12,0,81
+Fairbanks,2017-05-12,0,54
+Minneapolis,2017-05-12,0,61
+Roanoke,2017-05-12,0.77,54
+Los Angeles,2017-05-13,0,62
+Miami,2017-05-13,0,83
+Fairbanks,2017-05-13,0,50
+Minneapolis,2017-05-13,0,69
+Roanoke,2017-05-13,0.06,57
+Los Angeles,2017-05-14,0,62
+Miami,2017-05-14,0.37,82
+Fairbanks,2017-05-14,0,52
+Minneapolis,2017-05-14,0,71
+Roanoke,2017-05-14,0,64
+Los Angeles,2017-05-15,0,60
+Miami,2017-05-15,0,81
+Fairbanks,2017-05-15,0.08,53
+Minneapolis,2017-05-15,0.24,68
+Roanoke,2017-05-15,0,74
+Los Angeles,2017-05-16,0,59
+Miami,2017-05-16,0,83
+Fairbanks,2017-05-16,0,57
+Minneapolis,2017-05-16,0.35,68
+Roanoke,2017-05-16,0,68
+Los Angeles,2017-05-17,0,60
+Miami,2017-05-17,0.16,83
+Fairbanks,2017-05-17,0,58
+Minneapolis,2017-05-17,1.81,68
+Roanoke,2017-05-17,0,75
+Los Angeles,2017-05-18,0,62
+Miami,2017-05-18,0.89,83
+Fairbanks,2017-05-18,0,58
+Minneapolis,2017-05-18,0.27,53
+Roanoke,2017-05-18,0,78
+Los Angeles,2017-05-19,0,66
+Miami,2017-05-19,0,82
+Fairbanks,2017-05-19,0,53
+Minneapolis,2017-05-19,0,49
+Roanoke,2017-05-19,0,76
+Los Angeles,2017-05-20,0,71
+Miami,2017-05-20,0,84
+Fairbanks,2017-05-20,0,50
+Minneapolis,2017-05-20,1.47,48
+Roanoke,2017-05-20,0.97,74
+Los Angeles,2017-05-21,0,68
+Miami,2017-05-21,0,83
+Fairbanks,2017-05-21,0,51
+Minneapolis,2017-05-21,0.04,50
+Roanoke,2017-05-21,0.18,64
+Los Angeles,2017-05-22,0,63
+Miami,2017-05-22,0,82
+Fairbanks,2017-05-22,0.27,53
+Minneapolis,2017-05-22,0.01,53
+Roanoke,2017-05-22,0.43,65
+Los Angeles,2017-05-23,0,62
+Miami,2017-05-23,0,83
+Fairbanks,2017-05-23,0,50
+Minneapolis,2017-05-23,0.01,56
+Roanoke,2017-05-23,1.14,62
+Los Angeles,2017-05-24,0,61
+Miami,2017-05-24,0.47,85
+Fairbanks,2017-05-24,0.02,49
+Minneapolis,2017-05-24,0,54
+Roanoke,2017-05-24,1.51,58
+Los Angeles,2017-05-25,0,61
+Miami,2017-05-25,0.01,81
+Fairbanks,2017-05-25,0.04,49
+Minneapolis,2017-05-25,0.01,60
+Roanoke,2017-05-25,0.11,62
+Los Angeles,2017-05-26,0,63
+Miami,2017-05-26,0.17,84
+Fairbanks,2017-05-26,0.01,42
+Minneapolis,2017-05-26,0,67
+Roanoke,2017-05-26,0,67
+Los Angeles,2017-05-27,0,62
+Miami,2017-05-27,0.01,86
+Fairbanks,2017-05-27,0,46
+Minneapolis,2017-05-27,0,66
+Roanoke,2017-05-27,0,71
+Los Angeles,2017-05-28,0,63
+Miami,2017-05-28,0,86
+Fairbanks,2017-05-28,0,50
+Minneapolis,2017-05-28,0.02,66
+Roanoke,2017-05-28,0,73
+Los Angeles,2017-05-29,0,62
+Miami,2017-05-29,0,85
+Fairbanks,2017-05-29,0.01,57
+Minneapolis,2017-05-29,0,59
+Roanoke,2017-05-29,0,73
+Los Angeles,2017-05-30,0,62
+Miami,2017-05-30,0,85
+Fairbanks,2017-05-30,0.03,49
+Minneapolis,2017-05-30,0,56
+Roanoke,2017-05-30,0,73
+Los Angeles,2017-05-31,0,62
+Miami,2017-05-31,0,86
+Fairbanks,2017-05-31,0,50
+Minneapolis,2017-05-31,0,61
+Roanoke,2017-05-31,0.03,71
+Los Angeles,2017-06-01,0,64
+Miami,2017-06-01,0.03,85
+Fairbanks,2017-06-01,0,58
+Minneapolis,2017-06-01,0,65
+Roanoke,2017-06-01,0,70
+Los Angeles,2017-06-02,0,64
+Miami,2017-06-02,5.19,81
+Fairbanks,2017-06-02,0,62
+Minneapolis,2017-06-02,0,73
+Roanoke,2017-06-02,0,70
+Los Angeles,2017-06-03,0,64
+Miami,2017-06-03,0.17,79
+Fairbanks,2017-06-03,0,62
+Minneapolis,2017-06-03,0,82
+Roanoke,2017-06-03,0,69
+Los Angeles,2017-06-04,0,63
+Miami,2017-06-04,0.66,80
+Fairbanks,2017-06-04,0,65
+Minneapolis,2017-06-04,0,78
+Roanoke,2017-06-04,0.3,71
+Los Angeles,2017-06-05,0,63
+Miami,2017-06-05,0.11,83
+Fairbanks,2017-06-05,0,65
+Minneapolis,2017-06-05,0,72
+Roanoke,2017-06-05,0.76,68
+Los Angeles,2017-06-06,0,64
+Miami,2017-06-06,2.15,78
+Fairbanks,2017-06-06,0,61
+Minneapolis,2017-06-06,0,71
+Roanoke,2017-06-06,0,70
+Los Angeles,2017-06-07,0,63
+Miami,2017-06-07,1.94,77
+Fairbanks,2017-06-07,0,67
+Minneapolis,2017-06-07,0.02,74
+Roanoke,2017-06-07,0,64
+Los Angeles,2017-06-08,0,63
+Miami,2017-06-08,0.33,80
+Fairbanks,2017-06-08,0,71
+Minneapolis,2017-06-08,0,78
+Roanoke,2017-06-08,0.05,63
+Los Angeles,2017-06-09,0,64
+Miami,2017-06-09,0.35,81
+Fairbanks,2017-06-09,0,75
+Minneapolis,2017-06-09,0,75
+Roanoke,2017-06-09,0,67
+Los Angeles,2017-06-10,0,64
+Miami,2017-06-10,0,81
+Fairbanks,2017-06-10,0,75
+Minneapolis,2017-06-10,0,83
+Roanoke,2017-06-10,0,71
+Los Angeles,2017-06-11,0,64
+Miami,2017-06-11,0,85
+Fairbanks,2017-06-11,1.03,61
+Minneapolis,2017-06-11,1.82,76
+Roanoke,2017-06-11,0,77
+Los Angeles,2017-06-12,0,63
+Miami,2017-06-12,0.04,85
+Fairbanks,2017-06-12,0.26,52
+Minneapolis,2017-06-12,0.2,72
+Roanoke,2017-06-12,0,78
+Los Angeles,2017-06-13,0,64
+Miami,2017-06-13,0,84
+Fairbanks,2017-06-13,0,51
+Minneapolis,2017-06-13,0.14,75
+Roanoke,2017-06-13,0.83,79
+Los Angeles,2017-06-14,0,67
+Miami,2017-06-14,0.19,83
+Fairbanks,2017-06-14,0,56
+Minneapolis,2017-06-14,0.08,77
+Roanoke,2017-06-14,0.05,76
+Los Angeles,2017-06-15,0,69
+Miami,2017-06-15,0.19,83
+Fairbanks,2017-06-15,0,59
+Minneapolis,2017-06-15,0,77
+Roanoke,2017-06-15,1.58,74
+Los Angeles,2017-06-16,0,70
+Miami,2017-06-16,0.16,80
+Fairbanks,2017-06-16,0.12,60
+Minneapolis,2017-06-16,0,76
+Roanoke,2017-06-16,0.08,72
+Los Angeles,2017-06-17,0,68
+Miami,2017-06-17,0.07,83
+Fairbanks,2017-06-17,0.02,57
+Minneapolis,2017-06-17,0.2,75
+Roanoke,2017-06-17,0.4,73
+Los Angeles,2017-06-18,0,66
+Miami,2017-06-18,0.23,83
+Fairbanks,2017-06-18,0.17,59
+Minneapolis,2017-06-18,0.01,66
+Roanoke,2017-06-18,0.05,76
+Los Angeles,2017-06-19,0,66
+Miami,2017-06-19,1.48,81
+Fairbanks,2017-06-19,0.06,62
+Minneapolis,2017-06-19,0,67
+Roanoke,2017-06-19,0.3,77
+Los Angeles,2017-06-20,0,65
+Miami,2017-06-20,0,85
+Fairbanks,2017-06-20,0,61
+Minneapolis,2017-06-20,0.25,67
+Roanoke,2017-06-20,0,73
+Los Angeles,2017-06-21,0,66
+Miami,2017-06-21,0.01,85
+Fairbanks,2017-06-21,0,63
+Minneapolis,2017-06-21,0,70
+Roanoke,2017-06-21,0,76
+Los Angeles,2017-06-22,0,67
+Miami,2017-06-22,0,85
+Fairbanks,2017-06-22,0.01,65
+Minneapolis,2017-06-22,0.49,71
+Roanoke,2017-06-22,0.02,77
+Los Angeles,2017-06-23,0,66
+Miami,2017-06-23,0,85
+Fairbanks,2017-06-23,0.06,67
+Minneapolis,2017-06-23,0,66
+Roanoke,2017-06-23,0.03,77
+Los Angeles,2017-06-24,0,65
+Miami,2017-06-24,0,86
+Fairbanks,2017-06-24,0,64
+Minneapolis,2017-06-24,0,62
+Roanoke,2017-06-24,0.05,78
+Los Angeles,2017-06-25,0,68
+Miami,2017-06-25,0,86
+Fairbanks,2017-06-25,0,62
+Minneapolis,2017-06-25,0,60
+Roanoke,2017-06-25,0,72
+Los Angeles,2017-06-26,0,71
+Miami,2017-06-26,0,86
+Fairbanks,2017-06-26,0,62
+Minneapolis,2017-06-26,0,62
+Roanoke,2017-06-26,0,68
+Los Angeles,2017-06-27,0,71
+Miami,2017-06-27,0.25,84
+Fairbanks,2017-06-27,0,67
+Minneapolis,2017-06-27,0,66
+Roanoke,2017-06-27,0,70
+Los Angeles,2017-06-28,0,67
+Miami,2017-06-28,0.69,84
+Fairbanks,2017-06-28,0,65
+Minneapolis,2017-06-28,0.91,71
+Roanoke,2017-06-28,0,67
+Los Angeles,2017-06-29,0,67
+Miami,2017-06-29,1.63,84
+Fairbanks,2017-06-29,0,67
+Minneapolis,2017-06-29,0,71
+Roanoke,2017-06-29,0,73
+Los Angeles,2017-06-30,0,66
+Miami,2017-06-30,0.1,85
+Fairbanks,2017-06-30,0,69
+Minneapolis,2017-06-30,0.11,71
+Roanoke,2017-06-30,0,76
+Los Angeles,2017-07-01,0,65
+Miami,2017-07-01,0,87
+Fairbanks,2017-07-01,0,66
+Minneapolis,2017-07-01,0.01,69
+Roanoke,2017-07-01,0,80
+Los Angeles,2017-07-02,0,67
+Miami,2017-07-02,0,86
+Fairbanks,2017-07-02,0.83,65
+Minneapolis,2017-07-02,0,72
+Roanoke,2017-07-02,0,80
+Los Angeles,2017-07-03,0,67
+Miami,2017-07-03,0,87
+Fairbanks,2017-07-03,0.09,61
+Minneapolis,2017-07-03,0,73
+Roanoke,2017-07-03,0,78
+Los Angeles,2017-07-04,0,67
+Miami,2017-07-04,0,86
+Fairbanks,2017-07-04,0,61
+Minneapolis,2017-07-04,0,76
+Roanoke,2017-07-04,0.16,78
+Los Angeles,2017-07-05,0,68
+Miami,2017-07-05,0.01,87
+Fairbanks,2017-07-05,0,67
+Minneapolis,2017-07-05,0,80
+Roanoke,2017-07-05,0.48,74
+Los Angeles,2017-07-06,0,69
+Miami,2017-07-06,0.01,87
+Fairbanks,2017-07-06,0,71
+Minneapolis,2017-07-06,0,83
+Roanoke,2017-07-06,0.16,74
+Los Angeles,2017-07-07,0,72
+Miami,2017-07-07,0,87
+Fairbanks,2017-07-07,0.14,73
+Minneapolis,2017-07-07,0,78
+Roanoke,2017-07-07,0,79
+Los Angeles,2017-07-08,0,76
+Miami,2017-07-08,0,86
+Fairbanks,2017-07-08,0.04,68
+Minneapolis,2017-07-08,0,73
+Roanoke,2017-07-08,0,79
+Los Angeles,2017-07-09,0,77
+Miami,2017-07-09,0,86
+Fairbanks,2017-07-09,0.01,68
+Minneapolis,2017-07-09,0.37,75
+Roanoke,2017-07-09,0,75
+Los Angeles,2017-07-10,0,75
+Miami,2017-07-10,1.69,85
+Fairbanks,2017-07-10,0.23,62
+Minneapolis,2017-07-10,0,76
+Roanoke,2017-07-10,0,77
+Los Angeles,2017-07-11,0,72
+Miami,2017-07-11,0.02,84
+Fairbanks,2017-07-11,0.06,58
+Minneapolis,2017-07-11,0,77
+Roanoke,2017-07-11,0,79
+Los Angeles,2017-07-12,0,70
+Miami,2017-07-12,5.49,84
+Fairbanks,2017-07-12,0,61
+Minneapolis,2017-07-12,0.03,80
+Roanoke,2017-07-12,0,82
+Los Angeles,2017-07-13,0,69
+Miami,2017-07-13,0.2,83
+Fairbanks,2017-07-13,0.02,67
+Minneapolis,2017-07-13,0,68
+Roanoke,2017-07-13,0.04,82
+Los Angeles,2017-07-14,0,68
+Miami,2017-07-14,0,86
+Fairbanks,2017-07-14,0,69
+Minneapolis,2017-07-14,0,67
+Roanoke,2017-07-14,0,80
+Los Angeles,2017-07-15,0,70
+Miami,2017-07-15,0,86
+Fairbanks,2017-07-15,0,71
+Minneapolis,2017-07-15,0,76
+Roanoke,2017-07-15,0,81
+Los Angeles,2017-07-16,0,73
+Miami,2017-07-16,0,85
+Fairbanks,2017-07-16,0,66
+Minneapolis,2017-07-16,0,78
+Roanoke,2017-07-16,0,77
+Los Angeles,2017-07-17,0,72
+Miami,2017-07-17,0.02,85
+Fairbanks,2017-07-17,0,68
+Minneapolis,2017-07-17,0.63,79
+Roanoke,2017-07-17,0,78
+Los Angeles,2017-07-18,0,72
+Miami,2017-07-18,1.15,82
+Fairbanks,2017-07-18,0,67
+Minneapolis,2017-07-18,0.08,77
+Roanoke,2017-07-18,0.06,79
+Los Angeles,2017-07-19,0,71
+Miami,2017-07-19,0.1,83
+Fairbanks,2017-07-19,0,68
+Minneapolis,2017-07-19,1.17,72
+Roanoke,2017-07-19,0,79
+Los Angeles,2017-07-20,0,72
+Miami,2017-07-20,0.06,84
+Fairbanks,2017-07-20,0.01,70
+Minneapolis,2017-07-20,0,75
+Roanoke,2017-07-20,0,83
+Los Angeles,2017-07-21,0,71
+Miami,2017-07-21,2.29,83
+Fairbanks,2017-07-21,0.08,66
+Minneapolis,2017-07-21,0,77
+Roanoke,2017-07-21,0,83
+Los Angeles,2017-07-22,0,71
+Miami,2017-07-22,0,84
+Fairbanks,2017-07-22,0,62
+Minneapolis,2017-07-22,0,79
+Roanoke,2017-07-22,0,84
+Los Angeles,2017-07-23,0,71
+Miami,2017-07-23,0,86
+Fairbanks,2017-07-23,0.08,69
+Minneapolis,2017-07-23,0,75
+Roanoke,2017-07-23,0.63,86
+Los Angeles,2017-07-24,0,71
+Miami,2017-07-24,0,87
+Fairbanks,2017-07-24,0.17,65
+Minneapolis,2017-07-24,0,69
+Roanoke,2017-07-24,0.25,81
+Los Angeles,2017-07-25,0,71
+Miami,2017-07-25,0.05,86
+Fairbanks,2017-07-25,0,58
+Minneapolis,2017-07-25,0.39,73
+Roanoke,2017-07-25,0,81
+Los Angeles,2017-07-26,0,70
+Miami,2017-07-26,0,87
+Fairbanks,2017-07-26,0,63
+Minneapolis,2017-07-26,0.44,77
+Roanoke,2017-07-26,0,75
+Los Angeles,2017-07-27,0,70
+Miami,2017-07-27,0.06,87
+Fairbanks,2017-07-27,0,64
+Minneapolis,2017-07-27,0,76
+Roanoke,2017-07-27,0.02,76
+Los Angeles,2017-07-28,0,70
+Miami,2017-07-28,0.01,86
+Fairbanks,2017-07-28,0.1,65
+Minneapolis,2017-07-28,0,76
+Roanoke,2017-07-28,0.23,74
+Los Angeles,2017-07-29,0,70
+Miami,2017-07-29,0.3,85
+Fairbanks,2017-07-29,0.08,64
+Minneapolis,2017-07-29,0,75
+Roanoke,2017-07-29,0.04,72
+Los Angeles,2017-07-30,0,71
+Miami,2017-07-30,0.03,86
+Fairbanks,2017-07-30,0,65
+Minneapolis,2017-07-30,0,77
+Roanoke,2017-07-30,0,71
+Los Angeles,2017-07-31,0,68
+Miami,2017-07-31,0.96,80
+Fairbanks,2017-07-31,0,67
+Minneapolis,2017-07-31,0,78
+Roanoke,2017-07-31,0,72
+Los Angeles,2017-08-01,0,71
+Miami,2017-08-01,0.57,81
+Fairbanks,2017-08-01,0.02,64
+Minneapolis,2017-08-01,0,77
+Roanoke,2017-08-01,0,77
+Los Angeles,2017-08-02,0,76
+Miami,2017-08-02,0,83
+Fairbanks,2017-08-02,0.16,60
+Minneapolis,2017-08-02,0,76
+Roanoke,2017-08-02,0,74
+Los Angeles,2017-08-03,0,77
+Miami,2017-08-03,0,87
+Fairbanks,2017-08-03,0.04,59
+Minneapolis,2017-08-03,0.29,64
+Roanoke,2017-08-03,0,75
+Los Angeles,2017-08-04,0,75
+Miami,2017-08-04,0,87
+Fairbanks,2017-08-04,0,62
+Minneapolis,2017-08-04,0,63
+Roanoke,2017-08-04,0.01,76
+Los Angeles,2017-08-05,0,72
+Miami,2017-08-05,0,88
+Fairbanks,2017-08-05,0,64
+Minneapolis,2017-08-05,0.29,68
+Roanoke,2017-08-05,0,73
+Los Angeles,2017-08-06,0,72
+Miami,2017-08-06,0.05,87
+Fairbanks,2017-08-06,0.06,68
+Minneapolis,2017-08-06,0.09,67
+Roanoke,2017-08-06,0,69
+Los Angeles,2017-08-07,0,71
+Miami,2017-08-07,0.03,87
+Fairbanks,2017-08-07,0.01,70
+Minneapolis,2017-08-07,0,68
+Roanoke,2017-08-07,0.69,75
+Los Angeles,2017-08-08,0,71
+Miami,2017-08-08,0,87
+Fairbanks,2017-08-08,0,68
+Minneapolis,2017-08-08,0,73
+Roanoke,2017-08-08,0.01,74
+Los Angeles,2017-08-09,0,71
+Miami,2017-08-09,0,88
+Fairbanks,2017-08-09,0,66
+Minneapolis,2017-08-09,0.57,70
+Roanoke,2017-08-09,0,73
+Los Angeles,2017-08-10,0,70
+Miami,2017-08-10,0.94,84
+Fairbanks,2017-08-10,0,68
+Minneapolis,2017-08-10,0.1,66
+Roanoke,2017-08-10,0,70
+Los Angeles,2017-08-11,0,69
+Miami,2017-08-11,0.32,83
+Fairbanks,2017-08-11,0,61
+Minneapolis,2017-08-11,0,68
+Roanoke,2017-08-11,0.07,73
+Los Angeles,2017-08-12,0,69
+Miami,2017-08-12,0,85
+Fairbanks,2017-08-12,0.11,61
+Minneapolis,2017-08-12,0,70
+Roanoke,2017-08-12,0.06,75
+Los Angeles,2017-08-13,0,69
+Miami,2017-08-13,0,87
+Fairbanks,2017-08-13,0.5,62
+Minneapolis,2017-08-13,1,67
+Roanoke,2017-08-13,0,77
+Los Angeles,2017-08-14,0,69
+Miami,2017-08-14,0,87
+Fairbanks,2017-08-14,0.08,56
+Minneapolis,2017-08-14,0.01,66
+Roanoke,2017-08-14,0,74
+Los Angeles,2017-08-15,0,68
+Miami,2017-08-15,0.06,87
+Fairbanks,2017-08-15,0.16,56
+Minneapolis,2017-08-15,0,68
+Roanoke,2017-08-15,0.07,76
+Los Angeles,2017-08-16,0,69
+Miami,2017-08-16,0,87
+Fairbanks,2017-08-16,0.17,56
+Minneapolis,2017-08-16,1.94,70
+Roanoke,2017-08-16,0,79
+Los Angeles,2017-08-17,0,69
+Miami,2017-08-17,0,88
+Fairbanks,2017-08-17,0.07,52
+Minneapolis,2017-08-17,0.08,70
+Roanoke,2017-08-17,0.02,81
+Los Angeles,2017-08-18,0,69
+Miami,2017-08-18,0.5,88
+Fairbanks,2017-08-18,0.19,50
+Minneapolis,2017-08-18,0.16,66
+Roanoke,2017-08-18,0,81
+Los Angeles,2017-08-19,0,69
+Miami,2017-08-19,0.05,87
+Fairbanks,2017-08-19,0.15,50
+Minneapolis,2017-08-19,0,69
+Roanoke,2017-08-19,0,78
+Los Angeles,2017-08-20,0,69
+Miami,2017-08-20,0.36,84
+Fairbanks,2017-08-20,0.11,51
+Minneapolis,2017-08-20,0,75
+Roanoke,2017-08-20,0,78
+Los Angeles,2017-08-21,0,70
+Miami,2017-08-21,0.36,87
+Fairbanks,2017-08-21,0,56
+Minneapolis,2017-08-21,0.19,72
+Roanoke,2017-08-21,0.28,80
+Los Angeles,2017-08-22,0,70
+Miami,2017-08-22,0.13,86
+Fairbanks,2017-08-22,0.11,55
+Minneapolis,2017-08-22,0,68
+Roanoke,2017-08-22,0,80
+Los Angeles,2017-08-23,0,69
+Miami,2017-08-23,0.87,83
+Fairbanks,2017-08-23,0,53
+Minneapolis,2017-08-23,0,67
+Roanoke,2017-08-23,0,80
+Los Angeles,2017-08-24,0,68
+Miami,2017-08-24,1.14,81
+Fairbanks,2017-08-24,0,57
+Minneapolis,2017-08-24,0.01,66
+Roanoke,2017-08-24,0,73
+Los Angeles,2017-08-25,0,69
+Miami,2017-08-25,1.33,79
+Fairbanks,2017-08-25,0,56
+Minneapolis,2017-08-25,0.55,65
+Roanoke,2017-08-25,0,70
+Los Angeles,2017-08-26,0,69
+Miami,2017-08-26,0.53,79
+Fairbanks,2017-08-26,0.01,58
+Minneapolis,2017-08-26,1.22,64
+Roanoke,2017-08-26,0,72
+Los Angeles,2017-08-27,0,68
+Miami,2017-08-27,1.26,81
+Fairbanks,2017-08-27,0.12,54
+Minneapolis,2017-08-27,0.24,67
+Roanoke,2017-08-27,0.02,71
+Los Angeles,2017-08-28,0,69
+Miami,2017-08-28,0.01,83
+Fairbanks,2017-08-28,0.08,54
+Minneapolis,2017-08-28,0,66
+Roanoke,2017-08-28,0,69
+Los Angeles,2017-08-29,0,72
+Miami,2017-08-29,0.06,85
+Fairbanks,2017-08-29,0,53
+Minneapolis,2017-08-29,0,68
+Roanoke,2017-08-29,0.91,66
+Los Angeles,2017-08-30,0,74
+Miami,2017-08-30,0,87
+Fairbanks,2017-08-30,0,54
+Minneapolis,2017-08-30,0.01,72
+Roanoke,2017-08-30,0.17,69
+Los Angeles,2017-08-31,0,77
+Miami,2017-08-31,0,88
+Fairbanks,2017-08-31,0,51
+Minneapolis,2017-08-31,0,65
+Roanoke,2017-08-31,0,71
+Los Angeles,2017-09-01,0,80
+Miami,2017-09-01,0.45,88
+Fairbanks,2017-09-01,0,54
+Minneapolis,2017-09-01,0,62
+Roanoke,2017-09-01,0.7,66
+Los Angeles,2017-09-02,0,81
+Miami,2017-09-02,1.03,83
+Fairbanks,2017-09-02,0,47
+Minneapolis,2017-09-02,0,70
+Roanoke,2017-09-02,0.32,56
+Los Angeles,2017-09-03,0,84
+Miami,2017-09-03,0,85
+Fairbanks,2017-09-03,0,47
+Minneapolis,2017-09-03,0,71
+Roanoke,2017-09-03,0,66
+Los Angeles,2017-09-04,0.06,76
+Miami,2017-09-04,0,85
+Fairbanks,2017-09-04,0,55
+Minneapolis,2017-09-04,0.07,71
+Roanoke,2017-09-04,0,70
+Los Angeles,2017-09-05,0,74
+Miami,2017-09-05,0,86
+Fairbanks,2017-09-05,0.16,53
+Minneapolis,2017-09-05,0,57
+Roanoke,2017-09-05,0.02,74
+Los Angeles,2017-09-06,0,72
+Miami,2017-09-06,0,85
+Fairbanks,2017-09-06,0,58
+Minneapolis,2017-09-06,0,58
+Roanoke,2017-09-06,0.55,65
+Los Angeles,2017-09-07,0,71
+Miami,2017-09-07,0,87
+Fairbanks,2017-09-07,0.03,52
+Minneapolis,2017-09-07,0,60
+Roanoke,2017-09-07,0,59
+Los Angeles,2017-09-08,0,70
+Miami,2017-09-08,0,88
+Fairbanks,2017-09-08,0,49
+Minneapolis,2017-09-08,0,61
+Roanoke,2017-09-08,0,61
+Los Angeles,2017-09-09,0,70
+Miami,2017-09-09,1.78,85
+Fairbanks,2017-09-09,0.02,54
+Minneapolis,2017-09-09,0,62
+Roanoke,2017-09-09,0,62
+Los Angeles,2017-09-10,0,70
+Miami,2017-09-10,5.18,79
+Fairbanks,2017-09-10,0,51
+Minneapolis,2017-09-10,0,68
+Roanoke,2017-09-10,0,59
+Los Angeles,2017-09-11,0,73
+Miami,2017-09-11,0,89
+Fairbanks,2017-09-11,0,49
+Minneapolis,2017-09-11,0,71
+Roanoke,2017-09-11,0.01,59
+Los Angeles,2017-09-12,0,70
+Miami,2017-09-12,0,85
+Fairbanks,2017-09-12,0,48
+Minneapolis,2017-09-12,0,73
+Roanoke,2017-09-12,0.67,61
+Los Angeles,2017-09-13,0,68
+Miami,2017-09-13,0,85
+Fairbanks,2017-09-13,0,51
+Minneapolis,2017-09-13,0,75
+Roanoke,2017-09-13,0.05,70
+Los Angeles,2017-09-14,0,68
+Miami,2017-09-14,0,85
+Fairbanks,2017-09-14,0,49
+Minneapolis,2017-09-14,0,77
+Roanoke,2017-09-14,0.03,69
+Los Angeles,2017-09-15,0,68
+Miami,2017-09-15,0,85
+Fairbanks,2017-09-15,0,50
+Minneapolis,2017-09-15,0,78
+Roanoke,2017-09-15,0,67
+Los Angeles,2017-09-16,0,69
+Miami,2017-09-16,0.01,86
+Fairbanks,2017-09-16,0,48
+Minneapolis,2017-09-16,0.04,75
+Roanoke,2017-09-16,0,70
+Los Angeles,2017-09-17,0,68
+Miami,2017-09-17,0,85
+Fairbanks,2017-09-17,0,48
+Minneapolis,2017-09-17,0,60
+Roanoke,2017-09-17,0.03,71
+Los Angeles,2017-09-18,0,67
+Miami,2017-09-18,0,84
+Fairbanks,2017-09-18,0.03,48
+Minneapolis,2017-09-18,0.37,57
+Roanoke,2017-09-18,0,73
+Los Angeles,2017-09-19,0,69
+Miami,2017-09-19,0,85
+Fairbanks,2017-09-19,0.03,49
+Minneapolis,2017-09-19,0,65
+Roanoke,2017-09-19,0,71
+Los Angeles,2017-09-20,0,69
+Miami,2017-09-20,0,85
+Fairbanks,2017-09-20,0.01,41
+Minneapolis,2017-09-20,0.04,72
+Roanoke,2017-09-20,0,73
+Los Angeles,2017-09-21,0.02,68
+Miami,2017-09-21,2.29,84
+Fairbanks,2017-09-21,0.05,42
+Minneapolis,2017-09-21,0,67
+Roanoke,2017-09-21,0,74
+Los Angeles,2017-09-22,0,65
+Miami,2017-09-22,2.17,82
+Fairbanks,2017-09-22,0.17,46
+Minneapolis,2017-09-22,0,81
+Roanoke,2017-09-22,0,76
+Los Angeles,2017-09-23,0,64
+Miami,2017-09-23,0.43,83
+Fairbanks,2017-09-23,0.01,47
+Minneapolis,2017-09-23,0,83
+Roanoke,2017-09-23,0,74
+Los Angeles,2017-09-24,0,67
+Miami,2017-09-24,0.01,84
+Fairbanks,2017-09-24,0.02,48
+Minneapolis,2017-09-24,0,81
+Roanoke,2017-09-24,0,72
+Los Angeles,2017-09-25,0,72
+Miami,2017-09-25,0,85
+Fairbanks,2017-09-25,0.34,46
+Minneapolis,2017-09-25,0.41,66
+Roanoke,2017-09-25,0,73
+Los Angeles,2017-09-26,0,71
+Miami,2017-09-26,0.32,83
+Fairbanks,2017-09-26,0.01,45
+Minneapolis,2017-09-26,0.11,60
+Roanoke,2017-09-26,0,75
+Los Angeles,2017-09-27,0,69
+Miami,2017-09-27,0,83
+Fairbanks,2017-09-27,0,44
+Minneapolis,2017-09-27,0,57
+Roanoke,2017-09-27,0,76
+Los Angeles,2017-09-28,0,68
+Miami,2017-09-28,0,83
+Fairbanks,2017-09-28,0.54,44
+Minneapolis,2017-09-28,0,61
+Roanoke,2017-09-28,0,78
+Los Angeles,2017-09-29,0,70
+Miami,2017-09-29,1.3,81
+Fairbanks,2017-09-29,0,38
+Minneapolis,2017-09-29,0,58
+Roanoke,2017-09-29,0,67
+Los Angeles,2017-09-30,0,69
+Miami,2017-09-30,0,82
+Fairbanks,2017-09-30,0,35
+Minneapolis,2017-09-30,0,57
+Roanoke,2017-09-30,0,65
+Los Angeles,2017-10-01,0,68
+Miami,2017-10-01,0.02,85
+Fairbanks,2017-10-01,0,40
+Minneapolis,2017-10-01,0.29,60
+Roanoke,2017-10-01,0,57
+Los Angeles,2017-10-02,0,68
+Miami,2017-10-02,0.92,83
+Fairbanks,2017-10-02,0,44
+Minneapolis,2017-10-02,2.18,61
+Roanoke,2017-10-02,0,56
+Los Angeles,2017-10-03,0,67
+Miami,2017-10-03,0.2,83
+Fairbanks,2017-10-03,0,45
+Minneapolis,2017-10-03,0.12,65
+Roanoke,2017-10-03,0,60
+Los Angeles,2017-10-04,0,66
+Miami,2017-10-04,1.87,81
+Fairbanks,2017-10-04,0,46
+Minneapolis,2017-10-04,0,54
+Roanoke,2017-10-04,0,62
+Los Angeles,2017-10-05,0,67
+Miami,2017-10-05,2.8,80
+Fairbanks,2017-10-05,0,39
+Minneapolis,2017-10-05,0,55
+Roanoke,2017-10-05,0,67
+Los Angeles,2017-10-06,0,69
+Miami,2017-10-06,0,84
+Fairbanks,2017-10-06,0,40
+Minneapolis,2017-10-06,0.44,55
+Roanoke,2017-10-06,0,70
+Los Angeles,2017-10-07,0,73
+Miami,2017-10-07,0,85
+Fairbanks,2017-10-07,0,43
+Minneapolis,2017-10-07,0.17,57
+Roanoke,2017-10-07,0.02,67
+Los Angeles,2017-10-08,0,69
+Miami,2017-10-08,0,85
+Fairbanks,2017-10-08,0.12,41
+Minneapolis,2017-10-08,0,60
+Roanoke,2017-10-08,0.51,71
+Los Angeles,2017-10-09,0,69
+Miami,2017-10-09,0.08,84
+Fairbanks,2017-10-09,0.14,38
+Minneapolis,2017-10-09,0,53
+Roanoke,2017-10-09,0.67,77
+Los Angeles,2017-10-10,0,69
+Miami,2017-10-10,0.01,85
+Fairbanks,2017-10-10,1.4,37
+Minneapolis,2017-10-10,0,44
+Roanoke,2017-10-10,0.01,75
+Los Angeles,2017-10-11,0,66
+Miami,2017-10-11,0,83
+Fairbanks,2017-10-11,0.02,38
+Minneapolis,2017-10-11,0,47
+Roanoke,2017-10-11,1.06,77
+Los Angeles,2017-10-12,0,66
+Miami,2017-10-12,0.36,82
+Fairbanks,2017-10-12,0.13,32
+Minneapolis,2017-10-12,0,56
+Roanoke,2017-10-12,0,70
+Los Angeles,2017-10-13,0,65
+Miami,2017-10-13,0.11,82
+Fairbanks,2017-10-13,0.15,36
+Minneapolis,2017-10-13,0,54
+Roanoke,2017-10-13,0.06,61
+Los Angeles,2017-10-14,0,67
+Miami,2017-10-14,0.08,84
+Fairbanks,2017-10-14,0,35
+Minneapolis,2017-10-14,0.53,51
+Roanoke,2017-10-14,0,66
+Los Angeles,2017-10-15,0,73
+Miami,2017-10-15,0,83
+Fairbanks,2017-10-15,0,35
+Minneapolis,2017-10-15,0.03,47
+Roanoke,2017-10-15,0,69
+Los Angeles,2017-10-16,0,76
+Miami,2017-10-16,0.79,82
+Fairbanks,2017-10-16,0.04,30
+Minneapolis,2017-10-16,0,50
+Roanoke,2017-10-16,0,63
+Los Angeles,2017-10-17,0,75
+Miami,2017-10-17,0,82
+Fairbanks,2017-10-17,0,28
+Minneapolis,2017-10-17,0,59
+Roanoke,2017-10-17,0,51
+Los Angeles,2017-10-18,0,73
+Miami,2017-10-18,0.02,82
+Fairbanks,2017-10-18,0.05,29
+Minneapolis,2017-10-18,0,61
+Roanoke,2017-10-18,0,52
+Los Angeles,2017-10-19,0,69
+Miami,2017-10-19,0.06,82
+Fairbanks,2017-10-19,0,21
+Minneapolis,2017-10-19,0,57
+Roanoke,2017-10-19,0,56
+Los Angeles,2017-10-20,0,67
+Miami,2017-10-20,0.09,83
+Fairbanks,2017-10-20,0,12
+Minneapolis,2017-10-20,0,63
+Roanoke,2017-10-20,0,61
+Los Angeles,2017-10-21,0,67
+Miami,2017-10-21,0.08,82
+Fairbanks,2017-10-21,0,8
+Minneapolis,2017-10-21,0.45,65
+Roanoke,2017-10-21,0,61
+Los Angeles,2017-10-22,0,72
+Miami,2017-10-22,0,84
+Fairbanks,2017-10-22,0,13
+Minneapolis,2017-10-22,0,55
+Roanoke,2017-10-22,0,62
+Los Angeles,2017-10-23,0,79
+Miami,2017-10-23,0,83
+Fairbanks,2017-10-23,0,6
+Minneapolis,2017-10-23,0,55
+Roanoke,2017-10-23,1.35,63
+Los Angeles,2017-10-24,0,84
+Miami,2017-10-24,2.35,81
+Fairbanks,2017-10-24,0.03,19
+Minneapolis,2017-10-24,0,45
+Roanoke,2017-10-24,0,59
+Los Angeles,2017-10-25,0,86
+Miami,2017-10-25,0.45,75
+Fairbanks,2017-10-25,0.01,28
+Minneapolis,2017-10-25,0,46
+Roanoke,2017-10-25,0,52
+Los Angeles,2017-10-26,0,77
+Miami,2017-10-26,0,69
+Fairbanks,2017-10-26,0,33
+Minneapolis,2017-10-26,0,48
+Roanoke,2017-10-26,0,49
+Los Angeles,2017-10-27,0,71
+Miami,2017-10-27,0,74
+Fairbanks,2017-10-27,0.1,34
+Minneapolis,2017-10-27,0.25,35
+Roanoke,2017-10-27,0,50
+Los Angeles,2017-10-28,0,65
+Miami,2017-10-28,2.18,79
+Fairbanks,2017-10-28,0,32
+Minneapolis,2017-10-28,0,33
+Roanoke,2017-10-28,0.18,57
+Los Angeles,2017-10-29,0,64
+Miami,2017-10-29,0.14,75
+Fairbanks,2017-10-29,0,32
+Minneapolis,2017-10-29,0.03,34
+Roanoke,2017-10-29,0.32,52
+Los Angeles,2017-10-30,0,66
+Miami,2017-10-30,0,65
+Fairbanks,2017-10-30,0.25,30
+Minneapolis,2017-10-30,0,38
+Roanoke,2017-10-30,0,46
+Los Angeles,2017-10-31,0,65
+Miami,2017-10-31,0,69
+Fairbanks,2017-10-31,0,31
+Minneapolis,2017-10-31,0,31
+Roanoke,2017-10-31,0,52
+Los Angeles,2017-11-01,0,66
+Miami,2017-11-01,0,75
+Fairbanks,2017-11-01,0,29
+Minneapolis,2017-11-01,0.05,31
+Roanoke,2017-11-01,0,50
+Los Angeles,2017-11-02,0.07,64
+Miami,2017-11-02,0,77
+Fairbanks,2017-11-02,0,24
+Minneapolis,2017-11-02,0,37
+Roanoke,2017-11-02,0,58
+Los Angeles,2017-11-03,0.02,64
+Miami,2017-11-03,0.05,77
+Fairbanks,2017-11-03,0.1,30
+Minneapolis,2017-11-03,0.05,33
+Roanoke,2017-11-03,0,63
+Los Angeles,2017-11-04,0,64
+Miami,2017-11-04,0.01,77
+Fairbanks,2017-11-04,0,29
+Minneapolis,2017-11-04,0.02,36
+Roanoke,2017-11-04,0.32,57
+Los Angeles,2017-11-05,0,64
+Miami,2017-11-05,0,77
+Fairbanks,2017-11-05,0,23
+Minneapolis,2017-11-05,0.07,38
+Roanoke,2017-11-05,0,50
+Los Angeles,2017-11-06,0,63
+Miami,2017-11-06,0,79
+Fairbanks,2017-11-06,0,22
+Minneapolis,2017-11-06,0,27
+Roanoke,2017-11-06,0.02,59
+Los Angeles,2017-11-07,0,65
+Miami,2017-11-07,0,79
+Fairbanks,2017-11-07,0,14
+Minneapolis,2017-11-07,0,31
+Roanoke,2017-11-07,0.04,55
+Los Angeles,2017-11-08,0,65
+Miami,2017-11-08,0,79
+Fairbanks,2017-11-08,0.07,15
+Minneapolis,2017-11-08,0,32
+Roanoke,2017-11-08,0.04,43
+Los Angeles,2017-11-09,0,65
+Miami,2017-11-09,0,80
+Fairbanks,2017-11-09,0.09,17
+Minneapolis,2017-11-09,0,26
+Roanoke,2017-11-09,0.08,46
+Los Angeles,2017-11-10,0,64
+Miami,2017-11-10,0.28,80
+Fairbanks,2017-11-10,0.03,18
+Minneapolis,2017-11-10,0.03,16
+Roanoke,2017-11-10,0,46
+Los Angeles,2017-11-11,0,62
+Miami,2017-11-11,0.09,79
+Fairbanks,2017-11-11,0,15
+Minneapolis,2017-11-11,0,32
+Roanoke,2017-11-11,0,33
+Los Angeles,2017-11-12,0,62
+Miami,2017-11-12,1.3,81
+Fairbanks,2017-11-12,0.45,14
+Minneapolis,2017-11-12,0,31
+Roanoke,2017-11-12,0.1,36
+Los Angeles,2017-11-13,0,62
+Miami,2017-11-13,0.68,79
+Fairbanks,2017-11-13,0.05,25
+Minneapolis,2017-11-13,0,33
+Roanoke,2017-11-13,0,44
+Los Angeles,2017-11-14,0,63
+Miami,2017-11-14,0,80
+Fairbanks,2017-11-14,0,18
+Minneapolis,2017-11-14,0.08,41
+Roanoke,2017-11-14,0,45
+Los Angeles,2017-11-15,0,65
+Miami,2017-11-15,0.51,75
+Fairbanks,2017-11-15,0,-1
+Minneapolis,2017-11-15,0,40
+Roanoke,2017-11-15,0,41
+Los Angeles,2017-11-16,0,67
+Miami,2017-11-16,0,75
+Fairbanks,2017-11-16,0.22,10
+Minneapolis,2017-11-16,0,29
+Roanoke,2017-11-16,0,50
+Los Angeles,2017-11-17,0,67
+Miami,2017-11-17,0,74
+Fairbanks,2017-11-17,0.03,11
+Minneapolis,2017-11-17,0.09,36
+Roanoke,2017-11-17,0,44
+Los Angeles,2017-11-18,0,64
+Miami,2017-11-18,0,75
+Fairbanks,2017-11-18,0,-12
+Minneapolis,2017-11-18,0,35
+Roanoke,2017-11-18,0,46
+Los Angeles,2017-11-19,0,65
+Miami,2017-11-19,0,75
+Fairbanks,2017-11-19,0,-10
+Minneapolis,2017-11-19,0,25
+Roanoke,2017-11-19,0.1,50
+Los Angeles,2017-11-20,0,62
+Miami,2017-11-20,0.15,74
+Fairbanks,2017-11-20,0,-10
+Minneapolis,2017-11-20,0,38
+Roanoke,2017-11-20,0,41
+Los Angeles,2017-11-21,0,67
+Miami,2017-11-21,0.62,77
+Fairbanks,2017-11-21,0.1,-15
+Minneapolis,2017-11-21,0,33
+Roanoke,2017-11-21,0,40
+Los Angeles,2017-11-22,0,74
+Miami,2017-11-22,0,77
+Fairbanks,2017-11-22,0.19,4
+Minneapolis,2017-11-22,0,21
+Roanoke,2017-11-22,0,49
+Los Angeles,2017-11-23,0,77
+Miami,2017-11-23,0.32,77
+Fairbanks,2017-11-23,0.01,3
+Minneapolis,2017-11-23,0,32
+Roanoke,2017-11-23,0,36
+Los Angeles,2017-11-24,0,69
+Miami,2017-11-24,0,76
+Fairbanks,2017-11-24,0.02,-4
+Minneapolis,2017-11-24,0,49
+Roanoke,2017-11-24,0,40
+Los Angeles,2017-11-25,0,69
+Miami,2017-11-25,0,72
+Fairbanks,2017-11-25,0,-6
+Minneapolis,2017-11-25,0,39
+Roanoke,2017-11-25,0,46
+Los Angeles,2017-11-26,0,61
+Miami,2017-11-26,0,74
+Fairbanks,2017-11-26,0,-16
+Minneapolis,2017-11-26,0,36
+Roanoke,2017-11-26,0,51
+Los Angeles,2017-11-27,0.01,62
+Miami,2017-11-27,0,73
+Fairbanks,2017-11-27,0,-14
+Minneapolis,2017-11-27,0,44
+Roanoke,2017-11-27,0,47
+Los Angeles,2017-11-28,0,61
+Miami,2017-11-28,0.4,78
+Fairbanks,2017-11-28,0,-10
+Minneapolis,2017-11-28,0,50
+Roanoke,2017-11-28,0,46
+Los Angeles,2017-11-29,0,62
+Miami,2017-11-29,0,78
+Fairbanks,2017-11-29,0,-6
+Minneapolis,2017-11-29,0,36
+Roanoke,2017-11-29,0,52
+Los Angeles,2017-11-30,0,61
+Miami,2017-11-30,0,78
+Fairbanks,2017-11-30,0,-2
+Minneapolis,2017-11-30,0,42
+Roanoke,2017-11-30,0,49
+Los Angeles,2017-12-01,0,61
+Miami,2017-12-01,0,76
+Fairbanks,2017-12-01,0,-1
+Minneapolis,2017-12-01,0,38
+Roanoke,2017-12-01,0,53
+Los Angeles,2017-12-02,0,61
+Miami,2017-12-02,0,76
+Fairbanks,2017-12-02,0,2
+Minneapolis,2017-12-02,0,39
+Roanoke,2017-12-02,0,43
+Los Angeles,2017-12-03,0,60
+Miami,2017-12-03,0,75
+Fairbanks,2017-12-03,0.02,13
+Minneapolis,2017-12-03,0,38
+Roanoke,2017-12-03,0,47
+Los Angeles,2017-12-04,0,61
+Miami,2017-12-04,0.04,74
+Fairbanks,2017-12-04,0,18
+Minneapolis,2017-12-04,0.37,52
+Roanoke,2017-12-04,0,43
+Los Angeles,2017-12-05,0,63
+Miami,2017-12-05,0,77
+Fairbanks,2017-12-05,0,16
+Minneapolis,2017-12-05,0.01,24
+Roanoke,2017-12-05,0.02,48
+Los Angeles,2017-12-06,0,61
+Miami,2017-12-06,0,77
+Fairbanks,2017-12-06,0.05,25
+Minneapolis,2017-12-06,0.01,18
+Roanoke,2017-12-06,0,46
+Los Angeles,2017-12-07,0,65
+Miami,2017-12-07,0,77
+Fairbanks,2017-12-07,0.01,19
+Minneapolis,2017-12-07,0,15
+Roanoke,2017-12-07,0,42
+Los Angeles,2017-12-08,0,67
+Miami,2017-12-08,0,79
+Fairbanks,2017-12-08,0,28
+Minneapolis,2017-12-08,0,23
+Roanoke,2017-12-08,0,38
+Los Angeles,2017-12-09,0,67
+Miami,2017-12-09,0.52,74
+Fairbanks,2017-12-09,0,21
+Minneapolis,2017-12-09,0,24
+Roanoke,2017-12-09,0.13,32
+Los Angeles,2017-12-10,0,69
+Miami,2017-12-10,0,58
+Fairbanks,2017-12-10,0,11
+Minneapolis,2017-12-10,0,25
+Roanoke,2017-12-10,0,34
+Los Angeles,2017-12-11,0,71
+Miami,2017-12-11,0,58
+Fairbanks,2017-12-11,0,28
+Minneapolis,2017-12-11,0.18,29
+Roanoke,2017-12-11,0,40
+Los Angeles,2017-12-12,0,66
+Miami,2017-12-12,0,60
+Fairbanks,2017-12-12,0,20
+Minneapolis,2017-12-12,0,15
+Roanoke,2017-12-12,0,40
+Los Angeles,2017-12-13,0,65
+Miami,2017-12-13,0,62
+Fairbanks,2017-12-13,0,27
+Minneapolis,2017-12-13,0.01,26
+Roanoke,2017-12-13,0,28
+Los Angeles,2017-12-14,0,61
+Miami,2017-12-14,0,60
+Fairbanks,2017-12-14,0,15
+Minneapolis,2017-12-14,0,20
+Roanoke,2017-12-14,0,42
+Los Angeles,2017-12-15,0,64
+Miami,2017-12-15,0,66
+Fairbanks,2017-12-15,0,20
+Minneapolis,2017-12-15,0.05,24
+Roanoke,2017-12-15,0,33
+Los Angeles,2017-12-16,0,61
+Miami,2017-12-16,0,70
+Fairbanks,2017-12-16,0.06,18
+Minneapolis,2017-12-16,0,28
+Roanoke,2017-12-16,0,38
+Los Angeles,2017-12-17,0,62
+Miami,2017-12-17,0,74
+Fairbanks,2017-12-17,0.02,20
+Minneapolis,2017-12-17,0,24
+Roanoke,2017-12-17,0.01,41
+Los Angeles,2017-12-18,0,62
+Miami,2017-12-18,0,76
+Fairbanks,2017-12-18,0.01,20
+Minneapolis,2017-12-18,0,30
+Roanoke,2017-12-18,0,48
+Los Angeles,2017-12-19,0,58
+Miami,2017-12-19,0,76
+Fairbanks,2017-12-19,0.14,19
+Minneapolis,2017-12-19,0,36
+Roanoke,2017-12-19,0,54
+Los Angeles,2017-12-20,0.01,56
+Miami,2017-12-20,0,74
+Fairbanks,2017-12-20,0.07,26
+Minneapolis,2017-12-20,0.01,22
+Roanoke,2017-12-20,0,55
+Los Angeles,2017-12-21,0,55
+Miami,2017-12-21,0,75
+Fairbanks,2017-12-21,0,12
+Minneapolis,2017-12-21,0,21
+Roanoke,2017-12-21,0,41
+Los Angeles,2017-12-22,0,54
+Miami,2017-12-22,0,76
+Fairbanks,2017-12-22,0,-3
+Minneapolis,2017-12-22,0,22
+Roanoke,2017-12-22,0.06,44
+Los Angeles,2017-12-23,0,56
+Miami,2017-12-23,0,76
+Fairbanks,2017-12-23,0,-1
+Minneapolis,2017-12-23,0,18
+Roanoke,2017-12-23,0.13,53
+Los Angeles,2017-12-24,0,58
+Miami,2017-12-24,0,74
+Fairbanks,2017-12-24,0,-11
+Minneapolis,2017-12-24,0.01,18
+Roanoke,2017-12-24,0.01,43
+Los Angeles,2017-12-25,0,56
+Miami,2017-12-25,0,73
+Fairbanks,2017-12-25,0,-13
+Minneapolis,2017-12-25,0,3
+Roanoke,2017-12-25,0,33
+Los Angeles,2017-12-26,0,56
+Miami,2017-12-26,0,75
+Fairbanks,2017-12-26,0,1
+Minneapolis,2017-12-26,0,-4
+Roanoke,2017-12-26,0,30
+Los Angeles,2017-12-27,0,59
+Miami,2017-12-27,0.09,76
+Fairbanks,2017-12-27,0,-9
+Minneapolis,2017-12-27,0,-3
+Roanoke,2017-12-27,0,30
+Los Angeles,2017-12-28,0,59
+Miami,2017-12-28,0.01,75
+Fairbanks,2017-12-28,0,-1
+Minneapolis,2017-12-28,0.09,4
+Roanoke,2017-12-28,0,19
+Los Angeles,2017-12-29,0,63
+Miami,2017-12-29,0,72
+Fairbanks,2017-12-29,0,-21
+Minneapolis,2017-12-29,0.05,3
+Roanoke,2017-12-29,0,26
+Los Angeles,2017-12-30,0,60
+Miami,2017-12-30,0,64
+Fairbanks,2017-12-30,0,-20
+Minneapolis,2017-12-30,0,-7
+Roanoke,2017-12-30,0,31
+Los Angeles,2017-12-31,0,56
+Miami,2017-12-31,0,64
+Fairbanks,2017-12-31,0,-4
+Minneapolis,2017-12-31,0,-9
+Roanoke,2017-12-31,0,22
+Los Angeles,2018-01-01,0,57
+Miami,2018-01-01,0,70
+Fairbanks,2018-01-01,0,1
+Minneapolis,2018-01-01,0,-8
+Roanoke,2018-01-01,0,17
+Los Angeles,2018-01-02,0,60
+Miami,2018-01-02,0.24,64
+Fairbanks,2018-01-02,0,10
+Minneapolis,2018-01-02,0,-3
+Roanoke,2018-01-02,0,17
+Los Angeles,2018-01-03,0,62
+Miami,2018-01-03,0.5,65
+Fairbanks,2018-01-03,0,10
+Minneapolis,2018-01-03,0,6
+Roanoke,2018-01-03,0,19
+Los Angeles,2018-01-04,0,62
+Miami,2018-01-04,0,53
+Fairbanks,2018-01-04,0,8
+Minneapolis,2018-01-04,0,-1
+Roanoke,2018-01-04,0,22
+Los Angeles,2018-01-05,0,62
+Miami,2018-01-05,0,54
+Fairbanks,2018-01-05,0,1
+Minneapolis,2018-01-05,0,-4
+Roanoke,2018-01-05,0,16
+Los Angeles,2018-01-06,0,60
+Miami,2018-01-06,0,58
+Fairbanks,2018-01-06,0,-4
+Minneapolis,2018-01-06,0,-2
+Roanoke,2018-01-06,0,15
+Los Angeles,2018-01-07,0,62
+Miami,2018-01-07,0,61
+Fairbanks,2018-01-07,0,-9
+Minneapolis,2018-01-07,0,17
+Roanoke,2018-01-07,0,14
+Los Angeles,2018-01-08,0.28,63
+Miami,2018-01-08,0.01,70
+Fairbanks,2018-01-08,0,-17
+Minneapolis,2018-01-08,0,29
+Roanoke,2018-01-08,0.06,24
+Los Angeles,2018-01-09,1.12,60
+Miami,2018-01-09,0.02,73
+Fairbanks,2018-01-09,0,-12
+Minneapolis,2018-01-09,0,33
+Roanoke,2018-01-09,0,43
+Los Angeles,2018-01-10,0,56
+Miami,2018-01-10,0.04,72
+Fairbanks,2018-01-10,0,-18
+Minneapolis,2018-01-10,0,36
+Roanoke,2018-01-10,0,42
+Los Angeles,2018-01-11,0,57
+Miami,2018-01-11,0,75
+Fairbanks,2018-01-11,0,-5
+Minneapolis,2018-01-11,0.21,22
+Roanoke,2018-01-11,0.41,44
+Los Angeles,2018-01-12,0,58
+Miami,2018-01-12,0.1,76
+Fairbanks,2018-01-12,0,-15
+Minneapolis,2018-01-12,0,-1
+Roanoke,2018-01-12,0.54,59
+Los Angeles,2018-01-13,0,65
+Miami,2018-01-13,0,72
+Fairbanks,2018-01-13,0,-11
+Minneapolis,2018-01-13,0,-3
+Roanoke,2018-01-13,0.03,39
+Los Angeles,2018-01-14,0,71
+Miami,2018-01-14,0,62
+Fairbanks,2018-01-14,0,9
+Minneapolis,2018-01-14,0.17,2
+Roanoke,2018-01-14,0,21
+Los Angeles,2018-01-15,0,62
+Miami,2018-01-15,0,63
+Fairbanks,2018-01-15,0,19
+Minneapolis,2018-01-15,0,9
+Roanoke,2018-01-15,0,22
+Los Angeles,2018-01-16,0,60
+Miami,2018-01-16,0,68
+Fairbanks,2018-01-16,0.15,12
+Minneapolis,2018-01-16,0,2
+Roanoke,2018-01-16,0,30
+Los Angeles,2018-01-17,0,62
+Miami,2018-01-17,0,67
+Fairbanks,2018-01-17,0.55,27
+Minneapolis,2018-01-17,0,8
+Roanoke,2018-01-17,0.15,28
+Los Angeles,2018-01-18,0,63
+Miami,2018-01-18,0,56
+Fairbanks,2018-01-18,0.06,20
+Minneapolis,2018-01-18,0,29
+Roanoke,2018-01-18,0,22
+Los Angeles,2018-01-19,0,60
+Miami,2018-01-19,0,58
+Fairbanks,2018-01-19,0.12,15
+Minneapolis,2018-01-19,0,34
+Roanoke,2018-01-19,0,38
+Los Angeles,2018-01-20,0,57
+Miami,2018-01-20,0,68
+Fairbanks,2018-01-20,0.01,4
+Minneapolis,2018-01-20,0,35
+Roanoke,2018-01-20,0,46
+Los Angeles,2018-01-21,0,55
+Miami,2018-01-21,0,74
+Fairbanks,2018-01-21,0,-19
+Minneapolis,2018-01-21,0,36
+Roanoke,2018-01-21,0,51
+Los Angeles,2018-01-22,0,56
+Miami,2018-01-22,0,75
+Fairbanks,2018-01-22,0.13,-12
+Minneapolis,2018-01-22,1.03,33
+Roanoke,2018-01-22,0,49
+Los Angeles,2018-01-23,0,59
+Miami,2018-01-23,0,77
+Fairbanks,2018-01-23,0.07,-10
+Minneapolis,2018-01-23,0,23
+Roanoke,2018-01-23,0.22,54
+Los Angeles,2018-01-24,0,61
+Miami,2018-01-24,0.01,75
+Fairbanks,2018-01-24,0,-26
+Minneapolis,2018-01-24,0,20
+Roanoke,2018-01-24,0,42
+Los Angeles,2018-01-25,0,57
+Miami,2018-01-25,0,72
+Fairbanks,2018-01-25,0.01,-25
+Minneapolis,2018-01-25,0.01,25
+Roanoke,2018-01-25,0,37
+Los Angeles,2018-01-26,0,57
+Miami,2018-01-26,0,73
+Fairbanks,2018-01-26,0,-28
+Minneapolis,2018-01-26,0,35
+Roanoke,2018-01-26,0,36
+Los Angeles,2018-01-27,0,59
+Miami,2018-01-27,0,74
+Fairbanks,2018-01-27,0,-17
+Minneapolis,2018-01-27,0,31
+Roanoke,2018-01-27,0,42
+Los Angeles,2018-01-28,0,65
+Miami,2018-01-28,0,76
+Fairbanks,2018-01-28,0,-20
+Minneapolis,2018-01-28,0,20
+Roanoke,2018-01-28,0.44,51
+Los Angeles,2018-01-29,0,73
+Miami,2018-01-29,0.09,78
+Fairbanks,2018-01-29,0,-27
+Minneapolis,2018-01-29,0,11
+Roanoke,2018-01-29,0.28,44
+Los Angeles,2018-01-30,0,72
+Miami,2018-01-30,0,68
+Fairbanks,2018-01-30,0,-20
+Minneapolis,2018-01-30,0,11
+Roanoke,2018-01-30,0.01,32
+Los Angeles,2018-01-31,0,65
+Miami,2018-01-31,0,62
+Fairbanks,2018-01-31,0,-18
+Minneapolis,2018-01-31,0.13,27
+Roanoke,2018-01-31,0,29
+Los Angeles,2018-02-01,0,62
+Miami,2018-02-01,0,69
+Fairbanks,2018-02-01,0,-23
+Minneapolis,2018-02-01,0,7
+Roanoke,2018-02-01,0,43
+Los Angeles,2018-02-02,0,63
+Miami,2018-02-02,0,72
+Fairbanks,2018-02-02,0,-24
+Minneapolis,2018-02-02,0,0
+Roanoke,2018-02-02,0,34
+Los Angeles,2018-02-03,0,63
+Miami,2018-02-03,0.12,71
+Fairbanks,2018-02-03,0,-21
+Minneapolis,2018-02-03,0.15,14
+Roanoke,2018-02-03,0,24
+Los Angeles,2018-02-04,0,62
+Miami,2018-02-04,0,74
+Fairbanks,2018-02-04,0,-17
+Minneapolis,2018-02-04,0,4
+Roanoke,2018-02-04,0.91,33
+Los Angeles,2018-02-05,0,61
+Miami,2018-02-05,0,75
+Fairbanks,2018-02-05,0,-19
+Minneapolis,2018-02-05,0,3
+Roanoke,2018-02-05,0,37
+Los Angeles,2018-02-06,0,58
+Miami,2018-02-06,0,74
+Fairbanks,2018-02-06,0,-16
+Minneapolis,2018-02-06,0,3
+Roanoke,2018-02-06,0.08,35
+Los Angeles,2018-02-07,0,61
+Miami,2018-02-07,0,76
+Fairbanks,2018-02-07,0,-19
+Minneapolis,2018-02-07,0.02,8
+Roanoke,2018-02-07,0.93,36
+Los Angeles,2018-02-08,0,62
+Miami,2018-02-08,0,77
+Fairbanks,2018-02-08,0,-22
+Minneapolis,2018-02-08,0.01,9
+Roanoke,2018-02-08,0,37
+Los Angeles,2018-02-09,0,61
+Miami,2018-02-09,0.04,77
+Fairbanks,2018-02-09,0,-18
+Minneapolis,2018-02-09,0,8
+Roanoke,2018-02-09,0,37
+Los Angeles,2018-02-10,0,60
+Miami,2018-02-10,0,77
+Fairbanks,2018-02-10,0,-17
+Minneapolis,2018-02-10,0,6
+Roanoke,2018-02-10,0.91,41
+Los Angeles,2018-02-11,0,59
+Miami,2018-02-11,0,78
+Fairbanks,2018-02-11,0,-5
+Minneapolis,2018-02-11,0,6
+Roanoke,2018-02-11,0.63,51
+Los Angeles,2018-02-12,0,58
+Miami,2018-02-12,0,79
+Fairbanks,2018-02-12,0,16
+Minneapolis,2018-02-12,0,8
+Roanoke,2018-02-12,0,55
+Los Angeles,2018-02-13,0,56
+Miami,2018-02-13,0,78
+Fairbanks,2018-02-13,0,26
+Minneapolis,2018-02-13,0,14
+Roanoke,2018-02-13,0.08,39
+Los Angeles,2018-02-14,0,61
+Miami,2018-02-14,0,78
+Fairbanks,2018-02-14,0,25
+Minneapolis,2018-02-14,0,28
+Roanoke,2018-02-14,0.04,40
+Los Angeles,2018-02-15,0,61
+Miami,2018-02-15,0,76
+Fairbanks,2018-02-15,0,27
+Minneapolis,2018-02-15,0,34
+Roanoke,2018-02-15,0,59
+Los Angeles,2018-02-16,0,62
+Miami,2018-02-16,0,74
+Fairbanks,2018-02-16,0,18
+Minneapolis,2018-02-16,0,13
+Roanoke,2018-02-16,0.02,65
+Los Angeles,2018-02-17,0,61
+Miami,2018-02-17,0,75
+Fairbanks,2018-02-17,0,10
+Minneapolis,2018-02-17,0.01,25
+Roanoke,2018-02-17,0.09,41
+Los Angeles,2018-02-18,0,59
+Miami,2018-02-18,0,76
+Fairbanks,2018-02-18,0,14
+Minneapolis,2018-02-18,0,28
+Roanoke,2018-02-18,0,44
+Los Angeles,2018-02-19,0,55
+Miami,2018-02-19,0.1,76
+Fairbanks,2018-02-19,0,22
+Minneapolis,2018-02-19,0.13,26
+Roanoke,2018-02-19,0.21,44
+Los Angeles,2018-02-20,0,51
+Miami,2018-02-20,0,79
+Fairbanks,2018-02-20,0,25
+Minneapolis,2018-02-20,0.05,20
+Roanoke,2018-02-20,0,56
+Los Angeles,2018-02-21,0,53
+Miami,2018-02-21,0,78
+Fairbanks,2018-02-21,0,20
+Minneapolis,2018-02-21,0,11
+Roanoke,2018-02-21,0,62
+Los Angeles,2018-02-22,0,
+Miami,2018-02-22,0.01,75
+Fairbanks,2018-02-22,0,
+Minneapolis,2018-02-22,0.3,15
+Roanoke,2018-02-22,0,65
+Los Angeles,2018-02-23,0,53
+Miami,2018-02-23,0.02,
+Fairbanks,2018-02-23,0,23
+Minneapolis,2018-02-23,0.15,28
+Roanoke,2018-02-23,0,
+Los Angeles,2018-02-24,0,52
+Miami,2018-02-24,0,76
+Fairbanks,2018-02-24,0,2
+Minneapolis,2018-02-24,0.51,18
+Roanoke,2018-02-24,0.01,54
+Los Angeles,2018-02-25,0,54
+Miami,2018-02-25,0,76
+Fairbanks,2018-02-25,0,7
+Minneapolis,2018-02-25,0,23
+Roanoke,2018-02-25,0.06,62
+Los Angeles,2018-02-26,0.1,56
+Miami,2018-02-26,0.02,76
+Fairbanks,2018-02-26,0,9
+Minneapolis,2018-02-26,0,27
+Roanoke,2018-02-26,0,54
+Los Angeles,2018-02-27,0,52
+Miami,2018-02-27,0.06,75
+Fairbanks,2018-02-27,0,11
+Minneapolis,2018-02-27,0,34
+Roanoke,2018-02-27,0,44
+Los Angeles,2018-02-28,0,51
+Miami,2018-02-28,0,76
+Fairbanks,2018-02-28,0,5
+Minneapolis,2018-02-28,0,35
+Roanoke,2018-02-28,0.01,47
+Los Angeles,2018-03-01,0,54
+Miami,2018-03-01,0,75
+Fairbanks,2018-03-01,0,-15
+Minneapolis,2018-03-01,0,35
+Roanoke,2018-03-01,0.35,50
+Los Angeles,2018-03-02,0.38,55
+Miami,2018-03-02,0,77
+Fairbanks,2018-03-02,0,1
+Minneapolis,2018-03-02,0,28
+Roanoke,2018-03-02,0,46
+Los Angeles,2018-03-03,0.1,55
+Miami,2018-03-03,0,72
+Fairbanks,2018-03-03,0,12
+Minneapolis,2018-03-03,0,38
+Roanoke,2018-03-03,0,40
+Los Angeles,2018-03-04,0,53
+Miami,2018-03-04,0,67
+Fairbanks,2018-03-04,0,14
+Minneapolis,2018-03-04,0.07,38
+Roanoke,2018-03-04,0,44
+Los Angeles,2018-03-05,,57
+Miami,2018-03-05,0,66
+Fairbanks,2018-03-05,,9
+Minneapolis,2018-03-05,,36
+Roanoke,2018-03-05,0,43
+Los Angeles,2018-03-06,,60
+Miami,2018-03-06,,65
+Fairbanks,2018-03-06,,18
+Minneapolis,2018-03-06,,29
+Roanoke,2018-03-06,,42

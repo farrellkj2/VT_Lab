@@ -1,0 +1,338 @@
+The Life Changing Magic of Tidying Up: 'tidyverse' basics   
+========================================================
+author: Carey Lab Meeting
+date: March 27, 2018
+css: Tidyverse_present2.css
+
+What is 'tidyverse'?
+========================================================
+
+- Collection of R packages designed for data science
+- Packages share an underlying:
+  + Design philosophy
+  + Grammar
+  + Data structure  
+
+![](images/tidyverse.png)
+
+What is 'tidyverse'?
+========================================================
+left: 50%
+__Core Packages:__ auto-load with library(tidyverse)
+<small>
+- ggplot2: graphics
+- dplyr: data manipulation
+- tidyr: tidy data
+- readr: read & parse data files
+- purrr: functions & vectors
+- tibble: data frames reimagined </small>
+
+***
+![](images/hex-tibble.png)
+
+Why use tidyverse?
+========================================================
+- Unified grammar and structure
+- Tidy code easier to write, read, maintain than base R counterparts (+ is almost always faster to run!)
+- Transparent & reproducible workflows  
+![](images/workflow.png)
+
+Style principles
+========================================================
+_"Good coding style is like correct punctuation: you can manage without it, butitsuremakesthingseasiertoread."_ 
+
+__Three essentials to start:__  
+
+1. Use informative file names
+ + variable names = nouns; function names = verbs
+2. Load all packages at the beginning of a script  
+3. Limit your code to 80 characters per line
+
+Lots more that's worth a read at: [tidyverse style guide] (http://style.tidyverse.org)
+
+Tidy data principles
+========================================================
+1. Each variable in its own column
+2. Each observation in its own row
+3. Each value in its own cell  
+
+![](images/tidydata.png)
+
+Reading data
+========================================================
+- read_csv() reads in .csv files as a tibble
+
+__Tibble benefits:__
+- ~10x faster than read.csv()
+- Assumes 1st row is column headings by default (no more header = TRUE)  
+- Doesn't change input type: parses datetime, characters, etc.
+  + No more stringsAsFactors = FALSE
+- Doesn't alter variable names (e.g., "column name" does not become "column.name")
+- Doesn't assign row.names()
+
+Reading data
+========================================================
+``` {r}
+library(tidyverse)
+myData <- read_csv("demo_data.csv")
+```
+```{r echo=FALSE}
+head(myData)
+```
+Notice that the DATE column automatically parsed as a date  
+__No need__ for the as.Date(myData$DATE) command!
+
+Data transformation
+========================================================
+left: 50%
+- __filter()__
+- __arrange()__
+- __select()__
+- __mutate()__
+- __summarise()__  
+
+***
+ 
+![](images/dplyr.png)
+
+Pipes: Link commands together
+========================================================
+left: 70%
+- Use %>% when you find yourself  
+  + __composing multiple functions in a nested call__, or 
+  + __creating intermediate objects that you don't care about saving__
+
+- Put each verb on its own line
+  + This makes it simpler to rearrange them later, and makes it harder to overlook a step
+
+%>% should always have *a space before it*    
+and *a new line after it*
+
+***
+![](images/magrittr.png)
+
+Core commands: filter()
+========================================================
+- filter() can include multiple arguments with Boolean operations  
+![](images/boolean.png)  
+- Select multiple items from within a string:
+  + <small>x %in% c('y', 'z')</small>
+- filter() excludes both FALSE and NA values by default
+
+Core commands: filter()
+========================================================
+```{r}
+SEast <- filter(myData, City == "Roanoke" | City == "Miami")
+```
+```{r echo=FALSE}
+head(SEast)
+```
+OR filter using a list
+```{r}
+SEast <- filter(myData, City %in% c("Roanoke", "Miami"))
+```
+```{r echo=FALSE}
+head(SEast)
+```
+
+Core commands: select()
+========================================================
+- Select (or anti-select) columns by name
+
+- Or use a helper function within select:
+  + starts_with("abc"): matches names that begin with "abc"
+  + ends_with("xyz"): matches names that end with "xyz"
+  + contains("ijk"): matches names that contain "ijk"
+  + matches("(.)\\1"): selects variables that match a regular expression
+    This one matches any variables that contain repeated characters 
+    
+Core commands: select()
+========================================================
+You can select columns by name without quotes
+```{r}
+temps <- select(myData, City, DATE, TAVG)
+names(temps)
+```
+Or, rather than selecting all but *one* column,  
+"anti-select" the one to drop
+```{r}
+temps <- select(myData, -PRCP)
+names(temps)
+```
+
+
+Core commands: mutate()
+========================================================
+- Create a new variable column
+
+- mutate(df, new_column = how_you_create_it)
+  + Create using arithmetic operators (+, -, *, /, ^)
+  + Transform variables with log(), log10(), etc.
+  + And many more possibilities!
+
+- Variations of mutate()
+  + transmute() to keep __only__ the new (mutated) columns
+  + rename(df, new_name = old_name) 
+  
+Core commands: mutate()
+========================================================
+Oops, our data is in Fahrenheit! Need a column with Celsius!
+```{r}
+temps <- temps %>% 
+  rename(Temp_F = TAVG) %>%
+  mutate(Temp_C = ((Temp_F - 32) * (5/9)))
+```
+```{r echo=FALSE}
+head(temps)
+```
+
+Core commands: summarise()
+========================================================
+- Collapse your dataframe into a single row
+- Most useful when paired with group_by() for grouped summaries
+
+- Includes basic summary metrics
+  + <small>n(), n_distinct()
+  + mean(), median()
+  + sd()
+  + sum() </small>
+
+- __Important note:__ NA values are *not excluded* by default
+  + Include na.rm = TRUE in each clause to exclude NA's
+
+Core commands: summarise()
+========================================================
+Let's find out the 2017 mean temperature in each city:
+```{r}
+annual <- temps %>% 
+  mutate(year = lubridate::year(DATE)) %>%
+  filter(year == 2017) %>%
+  group_by(City, year) %>%
+  summarise(Mean = mean(Temp_C, na.rm = T))
+
+annual
+```
+
+
+Core commands: spread() & gather()
+========================================================
+__spread__(long, column_with_names, column_with_values)   
+![](images/spread.png)
+
+__gather__(wide, new_names, new_values, A:Z, factor_key = T)  
+  + A:Z: Names of source columns that contain values
+  + factor_key: Treat the new key column as a factor (instead of character vector)  
+  ![](images/gather.png)
+  
+Core commands: spread() & gather()
+========================================================
+Maybe we want to compare Miami and Roanoke temps each day:
+```{r}
+dataWide <- myData %>%
+  select(-PRCP) %>%
+  filter(City %in% c('Roanoke', 'Miami')) %>%
+  spread(City, TAVG) 
+
+dataWide
+```
+
+Core commands: separate() & unite()
+========================================================
+__separate__(old_column, into = c("A", "B"), sep = "_")
+- Default split wherever there is a non-alphanumeric character
+  + Can manually set split with sep = " "  
+![](images/separate.png)
+
+__unite__(new_column, A, B, sep = "")  
+- Use sep = "_" or similar to add seperator in new column
+![](images/unite.png)
+
+Writing data
+========================================================
+left: 70%
+- write_csv() writes a .csv file
+
+__Benefits:__
+- ~2x faster than write.csv() for large files
+- Saves dates and date-times in ISO-8601 format with UTC timezone
+- No need for row.names = FALSE
+
+***
+![](images/readr.png)
+
+Bonus packages
+========================================================
+left: 70%
+__lubridate__
+- Easily work with dates!
+  + Parsing of date-times: ymd(), ymd_hms()
+  + Functions to get and set components of a date-time: year(), month(), mday()
+  - Learn more: [lubridate cheat sheet](https://github.com/rstudio/cheatsheets/raw/master/lubridate.pdf)
+  
+***
+![](images/lubridate.png)
+
+lubridate
+========================================================
+Extract years and months painlessly from DateTime columns
+
+*Note*: Date parts are parsed to double by default,   
+but you can specify factor() within the mutate command
+```{r}
+library(lubridate)
+
+temps <- temps %>% 
+  mutate(year = year(DATE), month = factor(month(DATE)))
+```
+```{r echo=FALSE}
+head(temps)
+```
+
+
+Bonus packages
+========================================================
+left: 70%
+__broom__
+- Convert statistical analysis objects from R into tidy data frames, so that they can more easily be combined, reshaped and otherwise processed with tools like dplyr, tidyr and ggplot2
+
+***
+![](images/broom.png)
+
+broom: Zip through analyses across groups!
+========================================================
+For example, we can fit a regression for each city with one command...
+```{r}
+temp_correlations <- temps %>% 
+  group_by(City) %>%
+  do(broom::tidy(lm(.$Temp_C ~ .$DATE)))
+```
+```{r set-options, echo=FALSE, cache=FALSE}
+head(temp_correlations)
+```
+
+
+
+Additional resources 
+========================================================
+left: 70%
+- [R for Data Science] (http://r4ds.had.co.nz/)
+- [RStudio cheat sheets] (https://www.rstudio.com/resources/cheatsheets/)
+- [A gRadual intRoduction to the tidyverse] (https://github.com/Cascadia-R/gRadual-intRoduction-tidyverse?utm_content=buffer193d5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): Self-guided workshop
+- [Switching from Base R to tidyverse] (http://www.significantdigits.org/2017/10/switching-from-base-r-to-tidyverse/): List of equivalent commands
+
+***
+![](images/mastery.png)
+
+# Comments about comments
+========================================================
+left: 70%
+*In code, use comments to explain the "why" not the "what" or "how"* 
+
+- Use comments to record important findings and analysis decisions
+- If you need comments to explain what your code is doing, consider rewriting your code to be clearer 
+- If you discover that you have more comments than code, considering switching to RMarkdown
+
+From [Tidyverse Style Guide] (http://style.tidyverse.org/)
+
+***
+![](images/comment.png)
