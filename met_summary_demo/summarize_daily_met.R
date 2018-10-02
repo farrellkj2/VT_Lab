@@ -24,7 +24,3 @@ met_long <- met %>%
 ggplot(met_long, aes(x = Date, y = Value, group = Variable, col = Statistic)) +
   geom_line() +
   facet_grid(Variable ~ ., scales = "free_y")
-
-# Add extra stuff to file as example of reverting to previous commit
-ggplot(subset(met_long, Variable == "AirTemp" & Statistic == "max"), aes(x = Date, y = Value, group = Variable, col = Statistic)) +
-  geom_line()
