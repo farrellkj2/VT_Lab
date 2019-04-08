@@ -19,6 +19,8 @@ read_plus <- function(flnm) {
 path <- "./Elizabeth_temps/HOBO_20190330_Bottom8Tanks/Orginial Data_Do Not touch/"
 setwd(path)
 
+start_date <- '2019-03-15'
+
 # Read in all .csv files within the folder 
 data <- list.files(pattern="*.csv", full.names = T) %>% 
   map_df(~read_plus(.)) %>% 
@@ -27,9 +29,34 @@ data <- list.files(pattern="*.csv", full.names = T) %>%
          Time = paste(hour(Date_Time),minute(Date_Time), sep=":")) %>% 
   left_join(., trts) %>% 
   select(Date_Time, Date, Time, HOBO_Number, Tank_ID, Treatment, Location, 
-         Temperature_C, "Host Connect", EOF)
+         Temperature_C, "Host Connect", EOF) %>% 
+  filter(Date >= start_date, 
+         !is.na(Temperature_C)) # keep temperatures that are not NA
 
 # Quick plot to check temperatures ####
 ggplot(data, aes(x = Date_Time, y = Temperature_C, col = Treatment)) + 
   geom_line() +
   facet_wrap(Treatment ~ Tank_ID, ncol=2)
+
+
+# Calculate daily summary temps ####
+summary_tanks <- data %>% 
+  group_by(Tank_ID, Treatment, Date) %>% 
+  summarize(min = min(Temperature_C), 
+            mean = round(mean(Temperature_C),2), 
+            max = max(Temperature_C))
+
+summary_trt <- data %>% 
+  group_by(Treatment, Date) %>% 
+  summarize(min = min(Temperature_C), 
+            mean = round(mean(Temperature_C),2), 
+            max = max(Temperature_C))
+
+# Plot daily max. by treatment
+ggplot(summary_trt, aes(x = Date, y = max, col=Treatment)) +
+  geom_line() + geom_point()
+
+ggplot(summary_tanks, aes(x = Date, y = max, col=Tank_ID)) +
+  geom_line() + geom_point() +
+  facet_wrap(. ~ Treatment) +
+  scale_x_date(date_breaks = "2 days", date_labels="%m-%d")
