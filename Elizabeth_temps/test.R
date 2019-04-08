@@ -9,9 +9,10 @@ trts <- read_csv('./Elizabeth_temps/HOBO_list.csv')
 # Set a function to pull in file name (serial number) during read_csv
 read_plus <- function(flnm) {
   read_csv(flnm, skip=2) %>% 
-    mutate(filename = flnm) %>% 
-    separate(filename, into = c('junk','HOBO_Number'), sep = ' ', remove=T) %>% 
-    mutate(HOBO_Number = as.numeric(HOBO_Number))
+    mutate(filename = flnm, 
+           HOBO_Number = as.numeric(substring(filename, 6,13)))  
+   # separate(filename, into = c('junk','HOBO_Number'), sep = ' ', remove=T) %>% 
+   # mutate(HOBO_Number = as.numeric(HOBO_Number))
 }
 
 # Define the folder path where all the raw files are
